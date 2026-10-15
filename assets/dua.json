@@ -1,0 +1,676 @@
+{
+  "sections": [
+    {
+      "id": "1",
+      "original_section_number": 1,
+      "title_urdu": "ایمان مجمل اور ایمان مفصل",
+      "subtitle_urdu": "ایمان کے بنیادی کلمات:",
+      "list_type": "adhkar",
+      "points": [
+        {
+          "point_id": "1",
+          "title_urdu": "ایمان مجمل",
+          "arabic_text": "اٰمَنْتُ بِاللّٰہِ کَمَا ھُوَ بِأَسْمَآئِہٖ وَصِفَاتِہٖ وَقَبِلْتُ جَمِیْعَ أَحْکَامِہٖ",
+          "translation_urdu": "ایمان لایا میں اللہ تعالیٰ پر جیساکہ وہ اپنے ناموں اور صفتوں کے ساتھ ہے، اور میں نے اس کے تمام احکام قبول کیے۔",
+          "translation_english": "I believe in Allah as He truly is — with all His beautiful Names and Attributes — and I have accepted all of His commandments."
+        },
+        {
+          "point_id": "2",
+          "title_urdu": "ایمان مفصل",
+          "arabic_text": "اٰمَنْتُ بِاللّٰہِ وَمَلٰئِکَتِہٖ وَکُتُبِہٖ وَرُسُلِہٖ وَالْیَوْمِ الْاٰخِرِ وَالْقَدْرِخَیْرِہٖ وَشَرِّہٖ مِنَ اللّٰہِ تَعَالٰی وَالْبَعْثِ بَعْدَ الْمَوْتِ",
+          "translation_urdu": "ایمان لایا میں اللہ پر، اور اس کے فرشتوں پر ،اور اس کی کتابوں پر ،اور اس کے رسولوں پر ،اور قیامت کے دن پر، اور تقدیر پر، کہ اچھی اور بری سب اللہ کی طرف سے ہے، اور مرنے کے بعد دوبارہ زندہ ہونے پر۔",
+          "translation_english": "I believe in Allah, and in His angels, and in His revealed Books, and in His messengers, and in the Day of Judgement, and in Divine Decree — that both good and bad are from Allah the Most High — and in resurrection after death."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "original_section_number": 2,
+      "title_urdu": "روز مرہ کے معمولات کی دعائیں",
+      "list_type": "adhkar",
+      "points": [
+        {
+          "point_id": "1",
+          "title_urdu": "نیند سے بیدار ہوتے وقت",
+          "arabic_text": "الْحَمْدُ لِلّٰهِ الَّذِي اَحْيَانَا بَعْدَ مَاۤ اَمَاتَنَا وَاِلَيْهِ النُّشُوْرُ",
+          "translation_urdu": "تمام تعریفیں اللہ کی ہیں جس نے ہمیں موت کے بعد زندگی بخشی اور اسی کی طرف لوٹ کر جانا ہے۔",
+          "translation_english": "All praise is due to Allah, Who has granted us life after this sleep of ours, and unto Him shall be the resurrection."
+        },
+        {
+          "point_id": "2",
+          "title_urdu": "سونے کے لئے بستر پر جاتے وقت",
+          "arabic_text": "اَللّٰهُمَّ بِاسْمِكَ اَمُوْتُ وَاَحْيٰي",
+          "translation_urdu": "اے اللہ ! میں آپ ہی کے نام پر مروں گا اور (آپ ہی کے نام پر) جیتا ہوں۔",
+          "translation_english": "O Allah, in Your Name I die and I live."
+        },
+        {
+          "point_id": "3",
+          "title_urdu": "بیت الخلاء میں جاتے ہوئے",
+          "arabic_text": "اَللّٰهُمَّ اِنِّيۤ اَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثِ",
+          "translation_urdu": "اے اللہ ! میں خبیث شیاطین سے آپ کی پناہ چاہتا ہوں چاہے وہ نر ہوں یا مادہ۔",
+          "translation_english": "O Allah, I seek Your refuge from wicked and impure spirits, both male and female."
+        },
+        {
+          "point_id": "4",
+          "title_urdu": "بیت الخلاء سے نکلتے ہوئے",
+          "arabic_text": "غُفْرَانَكَ اَلْحَمْدُ لِلّٰهِ الَّذِيْ اَذْهَبَ عَنِّي الْاَذَي وَعَافَانِيْ",
+          "translation_urdu": "اے اللہ ! میں آپ سے مغفرت مانگتا ہوں ،تمام تعریفیں اللہ کے لئے ہیں جس نے مجھ سے گندگی دور کی اور مجھے عافیت عطا فرمائی۔",
+          "translation_english": "I seek Your forgiveness, O Allah. All praise is due to Allah, Who has removed discomfort from me and granted me well-being."
+        },
+        {
+          "point_id": "5",
+          "title_urdu": "وضو کے دوران",
+          "arabic_text": "اَللّٰهُمَّ اغْفِرْ لِيْ ذَنْبِيْ وَوَسِّعْ لِيْ فِيْ دَارِيْ وَبَارِكْ لِيْ فِيْ رزْقِيْ",
+          "translation_urdu": "اے اللہ ! میرے گناہ کو معاف فرما دیجئے ، میرے گھر میں وسعت عطا فرمائیے اور میرے رزق میں برکت عطا فرمائیے۔",
+          "translation_english": "O Allah, forgive my sins, grant spaciousness to my home, and bestow blessings upon my sustenance."
+        },
+        {
+          "point_id": "6",
+          "title_urdu": "وضو کے بعد",
+          "arabic_text": "اَشْهَدُ اَنْ لَّاۤ اِلٰهَ اِلَّا اللّٰهُ وَحْدَہٗ لَاشَرِيْكَ لَهٗ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُ ہٗ وَرَسُولُهٗ",
+          "translation_urdu": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ تنہا ہے،اس کا کوئی شریک نہیں، اور میں گواہی دیتا ہوں کہ محمد ﷺ اللہ کے بندے اور اس کے رسول ہیں۔",
+          "translation_english": "I bear witness that there is no deity worthy of worship except Allah, alone, without any partner. And I bear witness that Muhammad ﷺ is His servant and His messenger."
+        },
+        {
+          "point_id": "7",
+          "title_urdu": "غسل سے پہلے",
+          "arabic_text": "اَللّٰهُمَّ اِنِّيْۤ اَسْئَلُكَ الْجَنَّةَ وَاَعُوْذُبِكَ مِنَ النَّارِ",
+          "translation_urdu": "یا اللہ ! میں آپ سے جنت مانگتا ہوں اور دوزخ سے آپ کی پناہ چاہتا ہوں۔",
+          "translation_english": "O Allah, I ask You for Paradise and seek Your refuge from the Fire."
+        },
+        {
+          "point_id": "8",
+          "title_urdu": "مسجد مىں داخل ہوتے وقت",
+          "arabic_text": "بِسْمِ اللّٰهِ وَالصَّلٰوةُ وَالسَّلَامُ عَلٰي رَسُوْلِ اللّٰهِ اَللّٰهُمَّ افْتَحْ لِيْۤ اَبْوَابَ رَحْمَتِكَ",
+          "translation_urdu": "اللہ کے نام سے اور رسول اللہ ﷺ پر صلوٰۃ وسلام ہو، اے اللہ ! میرے لئے اپنی رحمت کے دروازے کھول دیجئے۔",
+          "translation_english": "In the name of Allah, and peace and blessings be upon the Messenger of Allah ﷺ. O Allah, open for me the gates of Your mercy."
+        },
+        {
+          "point_id": "9",
+          "title_urdu": "مسجد سے باہر نکلتے وقت",
+          "arabic_text": "بِسْمِ اللّٰهِ وَالصَّلٰوةُ وَالسَّلَامُ عَلٰي رَسُوْلِ اللّٰهِ اَللّٰهُمَّ اِنِّيْۤ اَسْئَلُكَ مِنْ فَضْلِكَ",
+          "translation_urdu": "اللہ کے نام سے اور رسول اللہ ﷺ پر صلوٰۃ وسلام ہو۔ اے اللہ ! میں آپ سے آپ کا فضل مانگتا ہوں۔",
+          "translation_english": "In the name of Allah, and peace and blessings be upon the Messenger of Allah ﷺ. O Allah, I beseech You from Your abundant grace."
+        },
+        {
+          "point_id": "10",
+          "title_urdu": "اذان کى آواز سن کر",
+          "action_urdu": "جب اذان کى آواز سنے تو جو کلمات مؤذن کہتا جائے وہى کلمات خود بھى دُہرائے، البتہ حَىَّ عَلَى الصَّلٰوۃ اور حَىَّ عَلَى الْفَلَاحِ کے جواب میں:",
+          "arabic_text": "لَاحَوْلَ وَلَاقُوَّةَ اِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ",
+          "translation_urdu": "کہے۔",
+          "translation_english": "When hearing the adhan, repeat the words of the muadhdhin. However, in response to 'Hayya alas-Salah' and 'Hayya alal-Falah', say: 'There is no power or might except with Allah, the Most High, the Most Great.'"
+        },
+        {
+          "point_id": "11",
+          "title_urdu": "اذان کے ختم پر یہ دعا پڑھے",
+          "arabic_text": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّآمَّةِ وَالصَّلاَةِ القَآئِمَةِ آتِ مُحَمَّدَ نِ الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَابْعَثْهُ مَقَامًا مَّحْمُوْدَ نِ الَّذِي وَعَدْتَّهُ اِنَّكَ لَا تُخْلِفُ الْمِيْعَادَ",
+          "translation_urdu": "اے اللہ ! جو اس مکمل دعوت اور کھڑی ہونے والی نماز کا مالک ہے، حضرت محمد(ﷺ) کو مقام وسیلہ عطا فرما اور فضیلت عطا فرما، اور اس مقام محمود پر فائز فرما جس کا آپ نے ان سے وعدہ فرمایا ہے، بے شک آپ وعدہ خلافی نہیں فرماتے۔",
+          "translation_english": "O Allah, Lord of this perfect call and the prayer that is about to be established, grant Muhammad ﷺ the Wasilah and the highest honour, and raise him to the praised station that You have promised him. Verily, You never break Your promise."
+        },
+        {
+          "point_id": "12",
+          "title_urdu": "فرض نماز سے سلام پھیرنے کے بعد",
+          "arabic_text": "لَاۤ اِلٰهَ اِلَّا اللَّهُ وَحْدَهُ لاَ شَرِيْكَ لَهٗ، لَهٗ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ، اَللّٰهُمَّ لاَ مَانِعَ لِمَا اَعْطَيْتَ، وَلاَ مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+          "translation_urdu": "اللہ کے سوا کوئی معبود نہیں ،و ہ تنہا ہے اس کا کوئی شریک نہیں، سلطنت اسی کی ہے ،تعریف اسی کی ہے اور وہ ہر چیز پر قادر ہے، اے اللہ ! جو چیز آپ عطا فرمائیں اسے روکنے والا کوئی نہیں، اور جو چیز آپ روک لیں اسے دینے والا کوئی نہیں، اور کسی با رُتبہ شخص کو اس کا رُتبہ آپ کے مقابلے میں کوئی فائدہ نہیں پہنچا سکتا۔",
+          "translation_english": "There is no deity worthy of worship except Allah, alone, without any partner. To Him belongs all sovereignty and all praise, and He has power over all things. O Allah, none can withhold what You bestow, and none can bestow what You withhold, and no worldly fortune of the fortunate can avail against You."
+        },
+        {
+          "point_id": "13",
+          "title_urdu": "گھر میں داخل ہوتے وقت",
+          "arabic_text": "اَللّٰهُمَّ اِنِّيۤ اَسْاَلُكَ خَيْرَ الْمَوْلَجِ وَخَيْرَ الْمَخْرَجِ بِسْمِ اللّٰهِ وَلَجْنَا وَبِسْمِ اللّٰهِ خَرَجْنَا وَعَلَى اللّٰهِ رَبِّنَا تَوَكَّلْنَا",
+          "translation_urdu": "اے اللہ ! میں آپ سے داخل ہونے کی بھلائی مانگتا ہوں اور نکلنے کی بھلائی مانگتا ہوں، اللہ کے نام سے ہم داخل ہوئے اور اللہ کے نام ہی سے نکلے اور اللہ ہی پر جو ہمارا پروردگار ہے ہم نے بھروسہ کیا۔",
+          "translation_english": "O Allah, I ask You for the goodness of entering and the goodness of departing. In the name of Allah we enter, and in the name of Allah we leave, and upon Allah our Lord we place our complete trust."
+        },
+        {
+          "point_id": "14",
+          "title_urdu": "افطار کے وقت",
+          "arabic_text": "اَللّٰهُمَّ لَكَ صُمْتُ وَعَلٰى رِزْقِكَ اَفْطَرْتُ",
+          "translation_urdu": "یا اللہ ! میں نے آپ کے لئے روزہ رکھا اور آپ کے رزق پر افطار کیا۔",
+          "translation_english": "O Allah, for Your sake I have fasted, and upon Your provision I break my fast."
+        },
+        {
+          "point_id": "15",
+          "title_urdu": "کھانے کے بعد",
+          "arabic_text": "اَلْحَمْدُ لِلّٰهِ الَّذيۤ اَطْعَمَنَا وَسَقانَا وَجَعَلَنَا مُسْلِمِيْنَ",
+          "translation_urdu": "تمام تعریفیں اللہ کے لئے ہیں جس نے ہمیں کھلایا اور پلایا اور ہمیں مسلمان بنایا۔",
+          "translation_english": "All praise is due to Allah, Who fed us, gave us drink, and made us among the Muslims."
+        },
+        {
+          "point_id": "16",
+          "title_urdu": "اگر کھانا کسى اور نے کھلایا ہو",
+          "arabic_text": "اَللّٰهُمَّ اَطْعِمْ مَنْ اَطْعَمَنِيْ وَاسْقِ مَنْ سَقَانِيْ",
+          "translation_urdu": "اے اللہ ! جس نے مجھے کھانا کھلایا ،آپ اس کو (اور) کھلائیے اور جس نے مجھے سیراب کیا، آپ اسے (اور) سیراب کیجئے۔",
+          "translation_english": "O Allah, feed the one who has fed me, and provide drink to the one who has given me drink."
+        },
+        {
+          "point_id": "17",
+          "title_urdu": "کپڑے بدلتے وقت",
+          "arabic_text": "اَلْحَمْدُ لِلّٰهِ الَّذِي كَسَانِيْ هٰذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِّنِّي وَلَا قُوَّةٍ",
+          "translation_urdu": "تعریف اللہ کی ہے جس نے مجھے یہ پہنایا اور میری کسی قوت اور طاقت کے بغیر مجھے عطا فرمایا۔",
+          "translation_english": "All praise is due to Allah, Who has clothed me with this garment and granted it to me without any strength or power of my own."
+        },
+        {
+          "point_id": "18",
+          "title_urdu": "جب کسى دشمن کا خوف ہو",
+          "arabic_text": "اَللّٰھُمَّ اِنَّا نَجْعَلُكَ فِيْ نُحُوْرِهِمْ وَنَعُوْذُبِكَ مِنْ شُرُوْرِهِمْ",
+          "translation_urdu": "اے اﷲ! ہم تجھی کو ان کے مقابل کرتے ہیں اور ان کے شر سے تیری پناہ مانگتے ہیں۔",
+          "translation_english": "O Allah, we place You before them as our shield, and we seek Your refuge from their evil."
+        },
+        {
+          "point_id": "19",
+          "title_urdu": "جب کوئى کام مشکل معلوم ہو",
+          "arabic_text": "اَللّٰهُمَّ لَا سَهْلَ اِلَّا مَا جَعَلْتَه سَهْلًا وَّاَنْتَ تَجْعَلُ الْحَزَنَ سَهْلًا اِذَا شِئْتَ",
+          "translation_urdu": "اے اﷲ! کوئی چیز آسان نہیں مگر جس کو تو آسان بنائے اور تو مشکل کو بھی آسان کردیتا ہے جب چاہے۔",
+          "translation_english": "O Allah, nothing is easy except what You make easy, and You can make difficulty easy whenever You will."
+        },
+        {
+          "point_id": "20",
+          "title_urdu": "نیا کپڑا پہنتے وقت",
+          "arabic_text": "اَللّٰهُمَّ لَكَ الْحَمْدُ اَنْتَ كَسَوْتَنِيْهِ اَسْاَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ وَاَعُوْذُ بِكَ مِنْ شَرِّهِ وَشرِّ مَا صُنِعَ لَهُ",
+          "translation_urdu": "اے اللہ ! آپ ہی کی تعریف ہے جیسے کہ آپ نے مجھے یہ لباس پہنایا، میں آپ سے اس کپڑے کی بھلائی مانگتا ہوں اور اس کام کی بھلائی مانگتا ہوں جس کے لئے یہ بنایا گیا، اور میں ا س کے شر سے پناہ مانگتا ہوں اور جس کام کے لئے بنایا گیا اس کی بُرائی سے پناہ مانگتا ہیں۔",
+          "translation_english": "O Allah, all praise belongs to You for clothing me with this garment. I ask You for its goodness and the goodness of the purpose for which it was made, and I seek Your refuge from its harm and the harm of the purpose for which it was made."
+        },
+        {
+          "point_id": "21",
+          "title_urdu": "جب بازار مىں داخل ہو",
+          "arabic_text": "لَاۤ اِلٰهَ اِلاَّ اللّٰهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِيْ وَيُمِيْتُ وَهُوَ حَيٌّ لَّا يَمُوْتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+          "translation_urdu": "اللہ کے سوا کوئی معبود نہیں، وہ ایک ہے اس کا کوئی شریک نہیں، سلطنت اسی کی ہے وہ زندہ کرتا ہے اور موت دیتا ہے، اور وہ خود زندہ ہے جسے موت نہیں آئے گی، اسی کے ہاتھ میں بھلائی ہے اور وہ ہر چیز پر قدرت رکھتا ہے۔",
+          "translation_english": "There is no deity worthy of worship except Allah, alone, without any partner. To Him belongs all sovereignty and all praise. He gives life and He gives death, and He Himself is Ever-Living and shall never die. In His hand is all goodness, and He has power over all things."
+        },
+        {
+          "point_id": "22",
+          "title_urdu": "جب کسى سوارى پر سوار ہو",
+          "arabic_text": "سُبۡحٰنَ الَّذِىۡ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقۡرِنِيۡنَۙ‏ (۱۳) وَاِنَّاۤ اِلٰى رَبِّنَا لَمُنۡقَلِبُوۡنَ",
+          "translation_urdu": "پاک ہے وہ ذات جس نے یہ سواری ہمارے لئے مسخر کر دی، اور ہم اس کو قابو میں لانے والے نہ تھے، اور ہم اپنے پروردگار ہی کی طرف لوٹنے والے ہیں۔سورۃ زخرف(14)",
+          "translation_english": "Glory be to the One Who has subjected this for us, for we were not capable of this on our own. And indeed, unto our Lord we shall return. (Surah Az-Zukhruf: 14)"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "original_section_number": 3,
+      "title_urdu": "سفر، خاندان اور معاشرتی دعائیں",
+      "list_type": "adhkar",
+      "points": [
+        {
+          "point_id": "1",
+          "title_urdu": "سفر کى دعا",
+          "arabic_text": "اَللّٰہُ اَکْبَرُ اَللّٰہُ اَکْبَرُ اَللّٰہُ اَکْبَرُ اَللّٰهُمَّ اِنَّا نَسْاَلُكَ فِي سَفَرِنَا هٰذَا الْبِرَّ وَالتَّقْوٰى وَمِنَ العَمَلِ مَا تَرْضٰى اَللّٰهُمَّ اَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالخَلِيْفَةُ فِي الْاَهْلِ وَالْمَالِ وَالْوَلَدِ اَللّٰهُمَّ اِنِّيْ اَعُوْذُ بِكَ مِنْ وَّعْثَاءِ السَّفَرِ وكَآبَةِ المَنْظَرِ وَسُوءِ المُنْقَلَبِ في المَالِ والاَهْلِ وَالْوَلَدِ اَللّٰهُمَّ هَوِّن عَلَيْنا سَفَرَنَا هٰذَا وَاطْوِ عَنَّا بُعْدَهٗ",
+          "translation_urdu": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے،اللہ سب سے بڑا ہے، اے اللہ ! آپ ہی ہمارے سفر میں ہمارے ساتھ ہیں، اور آپ ہی ہمارے پیچھے ہمارے گھر والوں اور مال و اولادکے محافظ ہیں۔ اے اللہ ! ہم آپ سے اپنے اس سفر میں نیکی اور تقوىٰ کی توفیق مانگتے ہیں، اور ایسے عمل کی جس سے آپ راضی ہوں۔ اے اللہ ! میں آپ کی پناہ چاہتا ہوں سفر کی مشقت سے اور غم میں ڈالنے والے منظر سے، اور بُری حالت میں گھر والوں اور مال واولاد کے پاس واپس لوٹنے سے۔ اے اللہ ! ہمارے لئے اس سفر کو آسان کر دیجئے اور اس کی دوری کو ہمارے لئے لپیٹ دیجئے۔",
+          "translation_english": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest. O Allah, in this journey of ours we ask You for righteousness, piety, and deeds that please You. O Allah, You are our Companion on this journey and the Guardian of our family, wealth, and children in our absence. O Allah, I seek Your refuge from the hardships of travel, from distressing sights, and from returning to our family, wealth, and children in a bad state. O Allah, make this journey of ours easy for us and shorten its distance for us."
+        },
+        {
+          "point_id": "2",
+          "title_urdu": "جب کسى نئى بستى مىں داخل ہو",
+          "arabic_text": "اَللّٰهُمَّ اِنِّي اَسْئَلُكَ خَيْرَ هٰذِهِ الْقَرْيَةِ وَخَيْرَ اَهْلِهَا وَخَيْرَ مَافِيْهَا وَاَعُوْذُبِكَ مِنْ شَرِّهَا وَشَرِّ اَهْلِهَا وَشَرِّ مَا فِيْهَا",
+          "translation_urdu": "اے اللہ ! میں آپ سے سوال کرتا ہوں کہ مجھے اس بستی کی، اس کے رہنے والوں کی اور جو کچھ اس بستی میں ہے اس کی بھلائی نصیب ہو، اور میں آپ کی پناہ مانگتا ہوں اس کی ، اس کے رہنے والوں کی اور جو کچھ اس بستی میں ہے اس کی بُرائی سے۔",
+          "translation_english": "O Allah, I ask You for the goodness of this town, the goodness of its people, and the goodness of all that is within it. And I seek Your refuge from its evil, the evil of its people, and the evil of all that is within it."
+        },
+        {
+          "point_id": "3",
+          "title_urdu": "بیمار کےلئے نبى ﷺ کى دعا",
+          "arabic_text": "اَذْهِبِ الْبَاْسَ رَبَّ النَّاسِ وَاشْفِ اَنْتَ الشَّافِي لَا شِفَآءَ اِلَّا شِفَآؤُكَ شِفَآءٌ لَّا يُغَادِرُ سَقَمًا",
+          "translation_urdu": "اے لوگوں کے پروردگار! بیماری دور کر دے اور شفا دے تو ہی شفا دینے والا ہے۔ تیرے سوا کسی کی شفاء ایسی نہیں جو بیماری کو دور کر دے۔(ام المؤمنین حضرت عائشہ صدیقہ ؓ فرماتی ہیں کہ رسول کریم ﷺ (کا یہ طریقہ تھا) جب ہم میں سے کوئی بیمار ہوتا آپ ﷺ اس پر داہنا ہاتھ پھیرتے اور یہ (دعا) فرماتے ۔)",
+          "translation_english": "Remove the affliction, O Lord of all people. Grant healing — for You are the Healer. There is no cure except Your cure — a cure that leaves no trace of illness. (Our mother Aisha ؓ narrated that when anyone among them fell ill, the Messenger of Allah ﷺ would place his blessed right hand upon them and recite this supplication.)"
+        },
+        {
+          "point_id": "4",
+          "title_urdu": "نکاح کى مبارکباد",
+          "arabic_text": "بَارَكَ اللّٰهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِيْ خَيْرٍ",
+          "translation_urdu": "اللہ تعالىٰ تمہارے لئے یہ نکاح مبارک فرمائے اور تم پر برکتین نازل فرمائے اور تم دونوں کو خیر وخوبی کے ساتھ اکٹھا رکھے۔",
+          "translation_english": "May Allah bless you and shower His blessings upon you, and may He unite you both in goodness."
+        },
+        {
+          "point_id": "5",
+          "title_urdu": "جماع کے وقت",
+          "arabic_text": "بِسْمِ اللّٰهِ اَللّٰهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَارَزَقْتَنَا",
+          "translation_urdu": "اللہ کے نام سے ، یا اللہ ! ہم کو شیطان سے دور رکھ، اور شیطان کو اس چیز سے(یعنی اولاد) سے دور رکھ جو آپ ہمیں عطا فرمائیں ۔",
+          "translation_english": "In the name of Allah. O Allah, keep us away from Satan, and keep Satan away from what You bless us with (i.e., our children)."
+        },
+        {
+          "point_id": "6",
+          "title_urdu": "انزال کے وقت",
+          "arabic_text": "اَللّٰهُمَّ لَاتَجْعَلْ لِلشَّيْطَانِ فِيْمَا رَزَقْتَنِيْ نَصِيْبًا",
+          "translation_urdu": "یا اللہ ! جو کچھ (اولاد) آپ مجھے عطا فرمائیں اس میں شیطان کا کوئی حصہ نہ لگائیے۔",
+          "translation_english": "O Allah, let not Satan have any share in what You have blessed me with (i.e., my children)."
+        },
+        {
+          "point_id": "7",
+          "title_urdu": "مہینے کا پہلا چاند دیکھ کر",
+          "arabic_text": "اَللّٰهُمَّ اَهْلِلْهُ عَلَيْنَا بِاليُمْنِ وَالْاِيْمَانِ وَالسَّلَامَةِ وَالْاِسْلَامِ رَبِّيْ وَرَبُّكَ اللّٰهُ",
+          "translation_urdu": "یا اللہ ! اس چاند کو ہم پر برکت ایمان ،سلامتی اور اسلام کے ساتھ طلوع فرمائیے (اے چاند) میرا اور تیرا دونوں کا پروردگار اللہ ہے ۔",
+          "translation_english": "O Allah, let this crescent moon appear over us with blessing, faith, safety, and Islam. (O moon,) my Lord and your Lord is Allah."
+        },
+        {
+          "point_id": "8",
+          "title_urdu": "جب غصہ آئے",
+          "arabic_text": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطٰنِ الرَّجِيْمِ",
+          "translation_urdu": "میں اللہ تعالیٰ کی پناہ میں آتا ہوں شیطان مردود سے۔",
+          "translation_english": "I seek the protection of Allah from the accursed Satan."
+        },
+        {
+          "point_id": "9",
+          "title_urdu": "جامع دعا",
+          "arabic_text": "اَللّٰھُمَّ اِنَّا نَسْاَلُکَ مِنْ خَیْرِ مَاسَاَلَکَ مِنْہُ نَبِیُّکَ مُحَمَّدٌ (صَلَّی اللّٰہُ عَلَیْہِ وَسَلَّمَ) وَنَعُوْذُ بِکَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْہُ نَبِیُّکَ مُحَمَّدٌ (صَلَّی اللّٰہُ عَلَیْہِ وَسَلَّمَ) وَاَنْتَ الْمُسْتَعَانُ وَعَلَیْکَ الْبَلَاغُ وَلَاحَوْلَ وَلَاقُوَّۃَ اِلَّا بِاللّٰہِ",
+          "translation_urdu": "حضرت ابو امامہ رضی اللہ عنہ نے حضور ﷺ سے عرض کیا کہ حضور! دعائیں تو آپ نے بہت سی بتادی ہیں اور ساری یاد رہتی نہیں، کوئی ایسی دعا بتادیجئے جو سب دعاؤں کو شامل ہوجائے۔ اس پر حضور ﷺ نے یہ دعا تعلیم فرمائی۔",
+          "translation_english": "O Allah, we ask You for all the goodness that Your Prophet Muhammad ﷺ asked of You, and we seek Your refuge from all the evil from which Your Prophet Muhammad ﷺ sought refuge. You are the One from Whom help is sought, and upon You rests the fulfilment. There is no power or might except with Allah. (Abu Umamah ؓ requested the Prophet ﷺ for a single supplication that would encompass all others, and the Prophet ﷺ taught him this comprehensive du'a.)"
+        },
+        {
+          "point_id": "10",
+          "title_urdu": "ہر مجلس کے آخر میں",
+          "arabic_text": "سُبْحٰنَكَ اللّٰهُمَّ وَبِحَمْدِكَ لَآ اِلٰهَ اِلَّا اَنْتَ اَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ",
+          "translation_urdu": "یا اللہ میں آپ کی پاکی بیان کرتا ہوں اور آپ کی حمد کرتا ہوں ، آپ کے سوا کوئی معبود نہیں، میں آپ سے مغفرت مانگتا ہوں اور آپ کے حضور توبہ کرتا ہوں۔",
+          "translation_english": "Glory be to You, O Allah, and all praise is Yours. There is no deity worthy of worship except You. I seek Your forgiveness and turn to You in repentance."
+        },
+        {
+          "point_id": "11",
+          "title_urdu": "جب آئینہ میں اپنا چہرہ دیکھے تو یہ دعا مانگے",
+          "arabic_text": "اَللّٰهُمَّ اَنْتَ حَسَّنْتَ خَلْقِيْ فَحَسِّنْ خُلُقِيْ",
+          "translation_urdu": "اے اللہ ! تو نے ہی میری صورت اتنی اچھی بنائی ہے پس تو ہی میرے اخلاق بھی اچھے بنا دے۔",
+          "translation_english": "O Allah, just as You have beautified my outward appearance, likewise beautify my character and inner self."
+        },
+        {
+          "point_id": "12",
+          "title_urdu": "عورت نکاح کر کے لائے یا خادم لائے تو پڑھے",
+          "arabic_text": "اَللّٰهُمَّ اِنِّي اَسْاَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَاَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+          "translation_urdu": "اے اللہ ! میں تجھ سے اس کی اور اس کی فطرت کی خیر وبرکت کا سوال کرتا ہوں اور اس کے اور اس کی فطرت کے شر سے تیری پناہ لیتا ہوں ۔",
+          "translation_english": "O Allah, I ask You for her goodness and the goodness of the nature You have created in her, and I seek Your refuge from her harm and the harm of the nature You have created in her."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "original_section_number": 4,
+      "title_urdu": "قرآنی دعائیں (حصہ اول)",
+      "list_type": "adhkar",
+      "points": [
+        {
+          "point_id": "1",
+          "title_urdu": "بیمار یا مصیبت زدہ کو دیکھ کر یہ دعا پڑھے",
+          "arabic_text": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ عَافَانِيْ مِمَّا ابْتَلَاكَ بِهٖ وَفَضَّلَنِيْ عَلٰي كَثِيْرٍ مِّمَّنْ خَلَقَ تَفْضِيْلًا",
+          "translation_urdu": "تمام تعریفیں اﷲکے لیے ہیں جس نے عافت دی مجھے اس (تکلیف) سے جس میں تجھے مبتلا کیا اور اپنی بہت سے مخلوق میں سے مجھے فضیلت بخشی۔",
+          "translation_english": "All praise is due to Allah, Who has granted me well-being and saved me from the trial He has afflicted you with, and Who has honoured me above many of His creation."
+        },
+        {
+          "point_id": "2",
+          "title_urdu": "ہدایت اور صراط مستقیم کی دعا (سورۃ الفاتحہ)",
+          "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَۙ الرَّحْمٰنِ الرَّحِیْمِۙ مٰلِكِ یَوْمِ الدِّیْنِؕ اِیَّاكَ نَعْبُدُ وَ اِیَّاكَ نَسْتَعِیْنُؕ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِیْمَۙ صِرَاطَ الَّذِیْنَ اَنْعَمْتَ عَلَیْهِمْ١ۙ۬ۦ غَیْرِ الْمَغْضُوْبِ عَلَیْهِمْ وَ لَا الضَّآلِّیْنَ۠",
+          "translation_urdu": "اللہ کے نام سے جو رحمان و رحیم ہے تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے رحمان اور رحیم ہے روز جزا کا مالک ہے ہم تیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں ہمیں سیدھا راستہ دکھا اُن لوگوں کا راستہ جن پر تو نے انعام فرمایا، جو معتوب نہیں ہوئے، جو بھٹکے ہوئے نہیں ہیں۔",
+          "translation_english": "In the name of Allah, the Most Gracious, the Most Merciful. All praise is due to Allah, Lord of all the worlds, the Most Gracious, the Most Merciful, Master of the Day of Judgement. You alone we worship, and from You alone we seek help. Guide us to the straight path — the path of those upon whom You have bestowed Your favour, not of those who have earned Your anger, nor of those who have gone astray."
+        },
+        {
+          "point_id": "3",
+          "title_urdu": "جہالت سے حفاظت کی دعا (سورۃ البقرۃ - 67)",
+          "arabic_text": "اَعُوْذُ بِاللّٰهِ اَنْ اَكُوْنَ مِنَ الْجٰهِلِیْنَ",
+          "translation_urdu": "میں پناہ مانگتا ہوں اللہ کی (اس بات سے) کہ میں جاہلوں میں سے ہو جاؤں۔",
+          "translation_english": "I seek the protection of Allah lest I become one of the ignorant."
+        },
+        {
+          "point_id": "4",
+          "title_urdu": "اعمال کی قبولیت اور درگزر کی دعا (سورۃ البقرۃ 127-128)",
+          "arabic_text": "رَبَّنَا تَقَبَّلْ مِنَّا١ؕ اِنَّكَ اَنْتَ السَّمِیْعُ الْعَلِیْمُ رَبَّنَا وَ اجْعَلْنَا مُسْلِمَیْنِ لَكَ وَ مِنْ ذُرِّیَّتِنَاۤ اُمَّةً مُّسْلِمَةً لَّكَ١۪ وَ اَرِنَا مَنَاسِكَنَا وَ تُبْ عَلَیْنَا١ۚ اِنَّكَ اَنْتَ التَّوَّابُ الرَّحِیْمُ",
+          "translation_urdu": "اے ہمارے رب، ہم سے یہ خدمت قبول فرما لے، تو سب کی سننے اور سب کچھ جاننے والا ہے۔ اے رب، ہم دونوں کو اپنا مسلم (مُطیع فرمان) بنا، ہماری نسل سے ایک ایسی قوم اٹھا، جو تیری مسلم ہو، ہمیں اپنی عبادت کے طریقے بتا، اور ہماری کوتاہیوں سے در گزر فرما، تو بڑا معاف کرنے والا اور رحم فرمانے والا ہے۔",
+          "translation_english": "Our Lord, accept this from us. Indeed, You are the All-Hearing, the All-Knowing. Our Lord, make us both fully surrendered to You, and raise from our descendants a nation surrendered to You. Show us our rites of worship, and turn to us in mercy. Indeed, You are the Ever-Relenting, the Most Merciful."
+        },
+        {
+          "point_id": "5",
+          "title_urdu": "دنیا اور آخرت میں بھلائی کی دعا (سورۃ البقرۃ 201)",
+          "arabic_text": "رَبَّنَاۤ اٰتِنَا فِی الدُّنْیَا حَسَنَةً وَّ فِی الْاٰخِرَةِ حَسَنَةً وَّ قِنَا عَذَابَ النَّارِ",
+          "translation_urdu": "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی دے اور آخرت میں بھی بھلائی اور آگ کے عذاب سے ہمیں بچا۔",
+          "translation_english": "Our Lord, grant us goodness in this world and goodness in the Hereafter, and protect us from the punishment of the Fire."
+        },
+        {
+          "point_id": "6",
+          "title_urdu": "صبر، استقامت اور نصرت کی دعا (سورۃ البقرۃ 250)",
+          "arabic_text": "رَبَّنَاۤ اَفْرِغْ عَلَیْنَا صَبْرًا وَّ ثَبِّتْ اَقْدَامَنَا وَ انْصُرْنَا عَلَى الْقَوْمِ الْكٰفِرِیْنَؕ",
+          "translation_urdu": "اے ہمارے رب ہم پر صبر کا فیضان کر، ہمارے قدم جما دے اور اس کافر گروہ پر ہمیں فتح نصیب کر۔",
+          "translation_english": "Our Lord, pour patience upon us, make our feet firm, and grant us victory over the disbelieving people."
+        },
+        {
+          "point_id": "7",
+          "title_urdu": "مغفرت کی دعا (سورۃ البقرۃ 285)",
+          "arabic_text": "سَمِعْنَا وَ اَطَعْنَا١٘ۗ غُفْرَانَكَ رَبَّنَا وَ اِلَیْكَ الْمَصِیْرُ",
+          "translation_urdu": "ہم نے (اللہ اور رسول کے احکام کو توجہ سے) سن لیا ہے، اور ہم خوشی سے (ان کی) تعمیل کرتے ہیں۔ اے ہمارے پروردگار ہم آپ کی مغفرت کے طلبگار ہیں، اور آپ ہی کی طرف ہمیں لوٹ کرجانا ہے۔",
+          "translation_english": "We hear and we obey. We seek Your forgiveness, our Lord, and unto You is the final return."
+        },
+        {
+          "point_id": "8",
+          "title_urdu": "بھول چوک اور خطاؤں پر درگزر کی دعا (سورۃ البقرۃ 286)",
+          "arabic_text": "رَبَّنَا لَا تُؤَاخِذْنَاۤ اِنْ نَّسِیْنَاۤ اَوْ اَخْطَاْنَا١ۚ رَبَّنَا وَ لَا تَحْمِلْ عَلَیْنَاۤ اِصْرًا كَمَا حَمَلْتَهٗ عَلَى الَّذِیْنَ مِنْ قَبْلِنَا١ۚ رَبَّنَا وَ لَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهٖ١ۚ وَ اعْفُ عَنَّا١ٙ وَ اغْفِرْ لَنَا١ٙ وَ ارْحَمْنَا١ٙ اَنْتَ مَوْلٰىنَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكٰفِرِیْنَ۠",
+          "translation_urdu": "اے ہمارے رب! ہم سے بھول چوک میں جو قصور ہو جائیں، ان پر گرفت نہ کر مالک! ہم پر وہ بوجھ نہ ڈال، جو تو نے ہم سے پہلے لوگوں پر ڈالے تھے پروردگار! جس بار کو اٹھانے کی طاقت ہم میں نہیں ہے، وہ ہم پر نہ رکھ، ہمارے ساتھ نرمی کر، ہم سے در گزر فرما، ہم پر رحم کر، تو ہمارا مولیٰ ہے، کافروں کے مقابلے میں ہماری مدد کر۔",
+          "translation_english": "Our Lord, do not take us to account if we forget or fall into error. Our Lord, do not burden us with a burden like that which You placed on those before us. Our Lord, do not burden us with more than we have the strength to bear. Pardon us, forgive us, and have mercy upon us. You are our Protector, so grant us victory over the disbelieving people."
+        },
+        {
+          "point_id": "9",
+          "title_urdu": "صراط مستقیم پر استقامت کی دعا (سورۃ آل عمران 8)",
+          "arabic_text": "رَبَّنَا لَا تُزِغْ قُلُوْبَنَا بَعْدَ اِذْ هَدَیْتَنَا وَ هَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً١ۚ اِنَّكَ اَنْتَ الْوَهَّابُ",
+          "translation_urdu": "پروردگار! جب تو ہمیں سیدھے رستہ پر لگا چکا ہے، تو پھر کہیں ہمارے دلوں کو کجی میں مبتلا نہ کر دیجیو ہمیں اپنے خزانہ فیض سے رحمت عطا کر کہ تو ہی فیاض حقیقی ہے۔",
+          "translation_english": "Our Lord, let not our hearts deviate after You have guided us, and bestow upon us mercy from Your presence. Indeed, You are the Bestower of all gifts."
+        },
+        {
+          "point_id": "10",
+          "title_urdu": "جہنم کی آگ سے حفاظت کی دعا (سورۃ آل عمران 16)",
+          "arabic_text": "رَبَّنَاۤ اِنَّنَاۤ اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَ قِنَا عَذَابَ النَّارِۚ",
+          "translation_urdu": "مالک! ہم ایمان لائے، ہماری خطاؤں سے در گزر فرما اور ہمیں آتش دوزخ سے بچا لے۔",
+          "translation_english": "Our Lord, we have believed, so forgive us our sins and protect us from the punishment of the Fire."
+        },
+        {
+          "point_id": "11",
+          "title_urdu": "نیک اولاد کی دعا (سورۃ آل عمران 38)",
+          "arabic_text": "رَبِّ هَبْ لِیْ مِنْ لَّدُنْكَ ذُرِّیَّةً طَیِّبَةً١ۚ اِنَّكَ سَمِیْعُ الدُّعَآءِ",
+          "translation_urdu": "پروردگار! اپنی قدرت سے مجھے نیک اولاد عطا کر تو ہی دعا سننے والا ہے۔",
+          "translation_english": "My Lord, grant me from Your presence righteous offspring. Indeed, You are the Hearer of supplication."
+        },
+        {
+          "point_id": "12",
+          "title_urdu": "ثابت قدمی اور اللہ کی مدد کی دعا (سورۃ آل عمران 147)",
+          "arabic_text": "رَبَّنَا اغْفِرْ لَنَا ذُنُوْبَنَا وَ اِسْرَافَنَا فِیْۤ اَمْرِنَا وَ ثَبِّتْ اَقْدَامَنَا وَ انْصُرْنَا عَلَى الْقَوْمِ الْكٰفِرِیْنَ",
+          "translation_urdu": "اے ہمارے رب! ہماری غلطیوں اور کوتاہیوں سے درگزر فرما، ہمارے کام میں تیرے حدود سے جو کچھ تجاوز ہو گیا ہو اُسے معاف کر دے، ہمارے قدم جما دے اور کافروں کے مقابلہ میں ہماری مدد کر۔",
+          "translation_english": "Our Lord, forgive us our sins and our excesses in our affairs, make our feet firm, and grant us victory over the disbelieving people."
+        },
+        {
+          "point_id": "13",
+          "title_urdu": "قیامت کے دن رسوائی سے بچنے کی دعا (سورۃ آل عمران 193-194)",
+          "arabic_text": "رَبَّنَا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَ كَفِّرْ عَنَّا سَیِّاٰتِنَا وَ تَوَفَّنَا مَعَ الْاَبْرَارِۚ رَبَّنَا وَ اٰتِنَا مَا وَعَدْتَّنَا عَلٰى رُسُلِكَ وَ لَا تُخْزِنَا یَوْمَ الْقِیٰمَةِ١ؕ اِنَّكَ لَا تُخْلِفُ الْمِیْعَادَ",
+          "translation_urdu": "اے ہمارے آقا! جو قصور ہم سے ہوئے ہیں ان سے درگزر فرما، جو برائیاں ہم میں ہیں انہیں دور کر دے اور ہمارا خاتمہ نیک لوگوں کے ساتھ کر۔ خداوندا! جو وعدے تو نے اپنے رسولوں کے ذریعہ سے کیے ہیں اُن کو ہمارے ساتھ پورا کر اور قیامت کے دن ہمیں رسوائی میں نہ ڈال، بے شک تو اپنے وعدے کے خلاف کرنے والا نہیں ہے۔",
+          "translation_english": "Our Lord, forgive us our sins and remove from us our evil deeds, and let us depart this world in the company of the righteous. Our Lord, fulfil for us what You have promised us through Your messengers, and do not disgrace us on the Day of Judgement. Indeed, You never break Your promise."
+        },
+        {
+          "point_id": "14",
+          "title_urdu": "گواہی دینے والوں میں شمولیت کی دعا (سورۃ المائدۃ 83)",
+          "arabic_text": "رَبَّنَاۤ اٰمَنَّا فَاكْتُبْنَا مَعَ الشّٰهِدِیْنَ",
+          "translation_urdu": "پروردگار! ہم ایمان لائے، ہمارا نام گواہی دینے والوں میں لکھ لے۔",
+          "translation_english": "Our Lord, we have believed, so record us among the witnesses."
+        },
+        {
+          "point_id": "15",
+          "title_urdu": "نیک لوگوں میں شامل ہونے کی دعا (سورۃ المائدۃ 84)",
+          "arabic_text": "وَ نَطْمَعُ اَنْ یُّدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصّٰلِحِیْنَ",
+          "translation_urdu": "ہم اِس بات کی خواہش رکھتے ہیں کہ ہمارا رب ہمیں صالح لوگوں میں شامل کرے۔",
+          "translation_english": "And we earnestly hope that our Lord will admit us among the righteous."
+        },
+        {
+          "point_id": "16",
+          "title_urdu": "مغفرت اور رحمت کی دعا (سورۃ الاعراف 23)",
+          "arabic_text": "رَبَّنَا ظَلَمْنَاۤ اَنْفُسَنَا١ٚ وَ اِنْ لَّمْ تَغْفِرْ لَنَا وَ تَرْحَمْنَا لَنَكُوْنَنَّ مِنَ الْخٰسِرِیْنَ",
+          "translation_urdu": "اے رب! ہم نے اپنے اوپر ستم کیا، اب اگر تو نے ہم سے در گزر نہ فرمایا اور رحم نہ کیا تو یقیناً ہم تباہ ہو جائیں گے۔",
+          "translation_english": "Our Lord, we have wronged ourselves. If You do not forgive us and have mercy upon us, we shall surely be among the losers."
+        },
+        {
+          "point_id": "17",
+          "title_urdu": "ظالموں کی معیت سے بچنے کی دعا (سورۃ الاعراف 47)",
+          "arabic_text": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظّٰلِمِیْنَ۠",
+          "translation_urdu": "اے رب! ہمیں اِن ظالم لوگوں میں شامل نہ کیجیو۔",
+          "translation_english": "Our Lord, do not place us among the wrongdoing people."
+        },
+        {
+          "point_id": "18",
+          "title_urdu": "حق کے فیصلے کی دعا (سورۃ الاعراف 89)",
+          "arabic_text": "رَبَّنَا افْتَحْ بَیْنَنَا وَ بَیْنَ قَوْمِنَا بِالْحَقِّ وَ اَنْتَ خَیْرُ الْفٰتِحِیْنَ",
+          "translation_urdu": "اے رب، ہمارے اور ہماری قوم کے درمیان ٹھیک ٹھیک فیصلہ کر دے اور تو بہترین فیصلہ کرنے والا ہے۔",
+          "translation_english": "Our Lord, judge between us and our people with truth, for You are the best of all judges."
+        },
+        {
+          "point_id": "19",
+          "title_urdu": "صبر اور حسنِ خاتمہ کی دعا (سورۃ الاعراف 126)",
+          "arabic_text": "رَبَّنَاۤ اَفْرِغْ عَلَیْنَا صَبْرًا وَّ تَوَفَّنَا مُسْلِمِیْنَ۠",
+          "translation_urdu": "اے رب، ہم پر صبر کا فیضان کر اور ہمیں دنیا سے اٹھا تو اِس حال میں کہ ہم تیرے فرماں بردار ہوں۔",
+          "translation_english": "Our Lord, pour patience upon us and let us depart this world in a state of complete submission to You."
+        },
+        {
+          "point_id": "20",
+          "title_urdu": "معافی اور رحمت کی دعا (سورۃ الاعراف 151)",
+          "arabic_text": "رَبِّ اغْفِرْ لِیْ وَ لِاَخِیْ وَ اَدْخِلْنَا فِیْ رَحْمَتِكَ١ۖ٘ وَ اَنْتَ اَرْحَمُ الرّٰحِمِیْنَ۠",
+          "translation_urdu": "اے رب، مجھے اور میرے بھائی کو معاف کر اور ہمیں اپنی رحمت میں داخل فرما، تو سب سے بڑھ کر رحیم ہے۔",
+          "translation_english": "My Lord, forgive me and my brother, and admit us into Your mercy. You are the Most Merciful of all those who show mercy."
+        },
+        {
+          "point_id": "21",
+          "title_urdu": "دنیا اور آخرت میں بھلائی کی دعا (سورۃ الاعراف 155-156)",
+          "arabic_text": "اَنْتَ وَلِیُّنَا فَاغْفِرْ لَنَا وَ ارْحَمْنَا وَ اَنْتَ خَیْرُ الْغٰفِرِیْنَ وَ اكْتُبْ لَنَا فِیْ هٰذِهِ الدُّنْیَا حَسَنَةً وَّ فِی الْاٰخِرَةِ اِنَّا هُدْنَاۤ اِلَیْكَ",
+          "translation_urdu": "ہمارے سر پرست تو آپ ہی ہیں پس ہمیں معاف کر دیجیے اور ہم پر رحم فرمائیے، آپ سب سے بڑھ کر معاف فرمانے والے ہیں۔ اور ہمارے لیے اس دنیا کی بھلائی بھی لکھ دیجیے اور آخرت کی بھی، ہم نے آپ کی طرف رجوع کر لیا۔",
+          "translation_english": "You are our Protector, so forgive us and have mercy upon us — You are the best of those who forgive. And decree for us goodness in this world and in the Hereafter, for we have turned to You in repentance."
+        },
+        {
+          "point_id": "22",
+          "title_urdu": "اللہ پر توکل کی دعا (سورۃ التوبۃ 129)",
+          "arabic_text": "حَسْبِیَ اللّٰهُ١ۖۗ٘ لَاۤ اِلٰهَ اِلَّا هُوَ١ؕ عَلَیْهِ تَوَكَّلْتُ وَ هُوَ رَبُّ الْعَرْشِ الْعَظِیْمِ۠",
+          "translation_urdu": "میرے لیے اللہ بس کرتا ہے، کوئی معبود نہیں مگر وہ، اُسی پر میں نے بھروسہ کیا اور وہ مالک ہے عرش عظیم کا۔",
+          "translation_english": "Allah is sufficient for me. There is no deity worthy of worship except Him. Upon Him I place my trust, and He is the Lord of the Magnificent Throne."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "original_section_number": 5,
+      "title_urdu": "قرآنی دعائیں (حصہ دوم)",
+      "list_type": "adhkar",
+      "points": [
+        {
+          "point_id": "1",
+          "title_urdu": "فتنہ بننے سے بچنے کی دعا (سورۃ یونس 85-86)",
+          "arabic_text": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظّٰلِمِیْنَۙ وَ نَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكٰفِرِیْنَ",
+          "translation_urdu": "اے ہمارے رب، ہمیں ظالم لوگوں کے لیے فتنہ نہ بنا۔ اور اپنی رحمت سے ہم کو کافروں سے نجات دے۔",
+          "translation_english": "Our Lord, do not make us a trial for the wrongdoing people, and deliver us through Your mercy from the disbelieving people."
+        },
+        {
+          "point_id": "2",
+          "title_urdu": "جہالت اور لاعلمی سے بچنے کی دعا (سورۃ ہود 47)",
+          "arabic_text": "رَبِّ اِنِّیْۤ اَعُوْذُ بِكَ اَنْ اَسْئَلَكَ مَا لَیْسَ لِیْ بِهٖ عِلْمٌ١ؕ وَ اِلَّا تَغْفِرْ لِیْ وَ تَرْحَمْنِیْۤ اَكُنْ مِّنَ الْخٰسِرِیْنَ",
+          "translation_urdu": "اے میرے رب، میں تیری پناہ مانگتا ہوں اِس سے کہ وہ چیز تجھ سے مانگوں جس کا مجھے علم نہیں اگر تو نے مجھ معاف نہ کیا اور رحم نہ فرمایا تو میں برباد ہو جاؤں گا۔",
+          "translation_english": "My Lord, I seek Your refuge from asking of You that about which I have no knowledge. And if You do not forgive me and have mercy upon me, I shall surely be among the losers."
+        },
+        {
+          "point_id": "3",
+          "title_urdu": "ظاہر و باطن اللہ کو دکھانے کی دعا (سورۃ ابراہیم 38)",
+          "arabic_text": "رَبَّنَاۤ اِنَّكَ تَعْلَمُ مَا نُخْفِیْ وَ مَا نُعْلِنُ١ؕ وَ مَا یَخْفٰى عَلَى اللّٰهِ مِنْ شَیْءٍ فِی الْاَرْضِ وَ لَا فِی السَّمَآءِ",
+          "translation_urdu": "پروردگار، تو جانتا ہے جو کچھ ہم چھپاتے ہیں اور جو کچھ ظاہر کرتے ہیں\" اور واقعی اللہ سے کچھ بھی چھپا ہوا نہیں ہے، نہ زمین میں نہ آسمانوں میں۔",
+          "translation_english": "Our Lord, You know what we conceal and what we reveal. And nothing at all is hidden from Allah, whether on earth or in the heavens."
+        },
+        {
+          "point_id": "4",
+          "title_urdu": "اقامت نماز اور والدین کی بخشش کی دعا (سورۃ ابراہیم 40-41)",
+          "arabic_text": "رَبِّ اجْعَلْنِیْ مُقِیْمَ الصَّلٰوةِ وَ مِنْ ذُرِّیَّتیْ١ۖۗ رَبَّنَا وَ تَقَبَّلْ دُعَآءِ رَبَّنَا اغْفِرْ لِیْ وَ لِوَالِدَیَّ وَ لِلْمُؤْمِنِیْنَ یَوْمَ یَقُوْمُ الْحِسَابُ۠",
+          "translation_urdu": "ا ے میرے پروردگار، مجھے نماز قائم کرنے والا بنا اور میری اولاد سے بھی (ایسے لوگ اٹھا جو یہ کام کریں) پروردگار، میری دعا قبول کر۔ پروردگار، مجھے اور میرے والدین کو اور سب ایمان لانے والوں کو اُس دن معاف کر دیجیو جبکہ حساب قائم ہوگا۔",
+          "translation_english": "My Lord, make me one who establishes prayer, and from my descendants as well. Our Lord, accept my supplication. Our Lord, forgive me and my parents and all the believers on the Day when the reckoning shall be established."
+        },
+        {
+          "point_id": "5",
+          "title_urdu": "والدین کے لئے رحمت کی دعا (سورۃ الاسراء 24)",
+          "arabic_text": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّیٰنِیْ صَغِیْرًاؕ",
+          "translation_urdu": "پروردگار، ان (میرے والدین) پر رحم فرما جس طرح اِنہوں نے رحمت و شفقت کے ساتھ مجھے بچپن میں پالا تھا۔",
+          "translation_english": "My Lord, have mercy upon my parents just as they nurtured and cared for me with love and tenderness in my childhood."
+        },
+        {
+          "point_id": "6",
+          "title_urdu": "معاملات میں درستگی کی دعا (سورۃ الکھف 10)",
+          "arabic_text": "رَبَّنَاۤ اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَّ هَیِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا",
+          "translation_urdu": "اے پروردگار، ہم کو اپنی رحمت خاص سے نواز اور ہمارا معاملہ درست کر دے۔",
+          "translation_english": "Our Lord, grant us mercy from Your presence and set right our affairs for us."
+        },
+        {
+          "point_id": "7",
+          "title_urdu": "علم میں اضافے کی دعا (سورۃ طہٰ 114)",
+          "arabic_text": "رَّبِّ زِدْنِیْ عِلْمًا",
+          "translation_urdu": "اے پروردگار مجھے مزید علم عطا کر۔",
+          "translation_english": "My Lord, increase me in knowledge."
+        },
+        {
+          "point_id": "8",
+          "title_urdu": "قصور کے اعتراف کی دعا (سورۃ الانبیاء 87)",
+          "arabic_text": "لَّاۤ اِلٰهَ اِلَّاۤ اَنْتَ سُبْحٰنَكَ١ۖۗ اِنِّیْ كُنْتُ مِنَ الظّٰلِمِیْنَۚۖ",
+          "translation_urdu": "نہیں ہے کوئی خدا مگر تُو، پاک ہے تیری ذات، بے شک میں نے قصور کیا۔",
+          "translation_english": "There is no deity worthy of worship except You. Glory be to You. Indeed, I have been among the wrongdoers."
+        },
+        {
+          "point_id": "9",
+          "title_urdu": "اللہ کے ساتھ کی دعا (سورۃ الانبیاء 89)",
+          "arabic_text": "رَبِّ لَا تَذَرْنِیْ فَرْدًا وَّ اَنْتَ خَیْرُ الْوٰرِثِیْنَۚۖ",
+          "translation_urdu": "اے پروردگار، مجھے اکیلا نہ چھوڑ، اور بہترین وارث تو تُو ہی ہے۔",
+          "translation_english": "My Lord, do not leave me alone, and You are the best of inheritors."
+        },
+        {
+          "point_id": "10",
+          "title_urdu": "برکت کی جگہ کی دعا (سورۃ المومنون 29)",
+          "arabic_text": "رَّبِّ اَنْزِلْنِیْ مُنْزَلًا مُّبٰرَكًا وَّ اَنْتَ خَیْرُ الْمُنْزِلِیْنَ",
+          "translation_urdu": "پروردگار، مجھ کو برکت والی جگہ اتار اور تُو بہترین جگہ دینے والا ہے۔",
+          "translation_english": "My Lord, cause me to land at a blessed destination, for You are the best to grant a place of settling."
+        },
+        {
+          "point_id": "11",
+          "title_urdu": "ظالم لوگوں سے حفاظت کی دعا (سورۃ المومنون 94)",
+          "arabic_text": "رَبِّ فَلَا تَجْعَلْنِیْ فِی الْقَوْمِ الظّٰلِمِیْنَ",
+          "translation_urdu": "تو اے میرے رب، مجھے ان ظالم لوگوں میں شامل نہ کیجیو۔",
+          "translation_english": "My Lord, do not place me among the wrongdoing people."
+        },
+        {
+          "point_id": "12",
+          "title_urdu": "شیاطین سے حفاظت کی دعا (سورۃ المومنون 97-98)",
+          "arabic_text": "رَّبِّ اَعُوْذُ بِكَ مِنْ هَمَزٰتِ الشَّیٰطِیْنِۙ وَ اَعُوْذُ بِكَ رَبِّ اَنْ یَّحْضُرُوْنِ",
+          "translation_urdu": "پروردگار، میں شیاطین کی اکساہٹوں سے تیری پناہ مانگتا ہوں۔ بلکہ اے میرے رب، میں تو اس سے بھی تیری پناہ مانگتا ہوں کہ وہ میرے پاس آئیں۔",
+          "translation_english": "My Lord, I seek Your refuge from the whispers and incitements of the devils. And I seek Your refuge, my Lord, from their very presence near me."
+        },
+        {
+          "point_id": "13",
+          "title_urdu": "مغفرت اور رحمت کی دعا (سورۃ المومنون 109)",
+          "arabic_text": "رَبَّنَاۤ اٰمَنَّا فَاغْفِرْ لَنَا وَ ارْحَمْنَا وَ اَنْتَ خَیْرُ الرّٰحِمِیْنَۚۖ",
+          "translation_urdu": "اے ہمارے پروردگار! ہم ایمان لائے، ہمیں معاف کر دے، ہم پر رحم کر، تُو سب رحیموں سے اچھا رحیم ہے۔",
+          "translation_english": "Our Lord, we have believed, so forgive us and have mercy upon us — You are the Most Merciful of all those who show mercy."
+        },
+        {
+          "point_id": "14",
+          "title_urdu": "مغفرت اور رحمت کی دعا (سورۃ المومنون 118)",
+          "arabic_text": "رَّبِّ اغْفِرْ وَ ارْحَمْ وَ اَنْتَ خَیْرُ الرّٰحِمِیْنَ۠",
+          "translation_urdu": "میرے رب درگزر فرما، اور رحم کر، اور تو سب رحیموں سے اچھا رحیم ہے۔",
+          "translation_english": "My Lord, forgive and have mercy, for You are the Most Merciful of all those who show mercy."
+        },
+        {
+          "point_id": "15",
+          "title_urdu": "جہنم کے عذاب سے حفاظت کی دعا (سورۃ الفرقان 65-66)",
+          "arabic_text": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ١ۖۗ اِنَّ عَذَابَهَا كَانَ غَرَامًاۗۖ اِنَّہا سَآءَتْ مُسْتَقَرًّا وَّ مُقَامًا",
+          "translation_urdu": "اے ہمارے رب، جہنم کے عذاب سے ہم کو بچا لے، اُس کا عذاب تو جان کا لاگو ہے۔ وہ بڑا ہی برا مستقر اور مقام ہے۔",
+          "translation_english": "Our Lord, avert from us the punishment of Hellfire. Indeed, its punishment is an unrelenting affliction — what a terrible resting place and abode it is."
+        },
+        {
+          "point_id": "16",
+          "title_urdu": "بیوی بچوں سے آنکھوں کی ٹھنڈک کی دعا (سورۃ الفرقان 74)",
+          "arabic_text": "رَبَّنَا هَبْ لَنَا مِنْ اَزْوَاجِنَا وَ ذُرِّیّٰتِنَا قُرَّةَ اَعْیُنٍ وَّ اجْعَلْنَا لِلْمُتَّقِیْنَ اِمَامًا",
+          "translation_urdu": "اے ہمارے رب، ہمیں اپنی بیویوں اور اپنی اولاد سے آنکھوں کی ٹھنڈک دے اور ہم کو پرہیز گاروں کا امام بنا۔",
+          "translation_english": "Our Lord, grant us in our spouses and our children the joy and comfort of our eyes, and make us a guiding example for the righteous."
+        },
+        {
+          "point_id": "17",
+          "title_urdu": "نعمتوں بھری جنت کی دعا (سورۃ الشعراء 83-85)",
+          "arabic_text": "رَبِّ هَبْ لِیْ حُكْمًا وَّ اَلْحِقْنِیْ بِالصّٰلِحِیْنَۙ وَ اجْعَلْ لِّیْ لِسَانَ صِدْقٍ فِی الْاٰخِرِیْنَۙ وَ اجْعَلْنِیْ مِنْ وَّرَثَةِ جَنَّةِ النَّعِیْمِۙ",
+          "translation_urdu": "اے میرے رب، مجھے حکم عطا کر اور مجھ کو صالحوں کے ساتھ ملا۔ اور بعد کے آنے والوں میں مجھ کو سچی ناموری عطا کر۔ اور مجھے جنتِ نعیم کے وارثوں میں شامل فرما۔",
+          "translation_english": "My Lord, grant me wisdom and join me with the righteous. And grant me an honourable legacy among future generations. And make me among the inheritors of the Garden of Bliss."
+        },
+        {
+          "point_id": "18",
+          "title_urdu": "قیامت کی رسوائی سے حفاظت کی دعا (سورۃ الشعراء 87-88)",
+          "arabic_text": "وَ لَا تُخْزِنِیْ یَوْمَ یُبْعَثُوْنَۙ یَوْمَ لَا یَنْفَعُ مَالٌ وَّ لَا بَنُوْنَۙ",
+          "translation_urdu": "اور مجھے اس دن رسوا نہ کر جبکہ سب لوگ زندہ کر کے اٹھائے جائیں گے۔ جبکہ نہ مال کوئی فائدہ دے گا نہ اولاد۔",
+          "translation_english": "And do not disgrace me on the Day when all shall be resurrected — the Day when neither wealth nor children shall be of any avail."
+        },
+        {
+          "point_id": "19",
+          "title_urdu": "ظالم قوم سے حفاظت کی دعا (سورۃ القصص 21)",
+          "arabic_text": "رَبِّ نَجِّنِیْ مِنَ الْقَوْمِ الظّٰلِمِیْنَ۠",
+          "translation_urdu": "اے میرے رب، مجھے ظالموں سے بچا۔",
+          "translation_english": "My Lord, deliver me from the wrongdoing people."
+        },
+        {
+          "point_id": "20",
+          "title_urdu": "صالح بندوں میں شمولیت کی دعا (سورۃ النمل 19)",
+          "arabic_text": "رَبِّ اَوْزِعْنِیْۤ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِیْۤ اَنْعَمْتَ عَلَیَّ وَ عَلٰى وَالِدَیَّ وَ اَنْ اَعْمَلَ صَالِحًا تَرْضٰىهُ وَ اَدْخِلْنِیْ بِرَحْمَتِكَ فِیْ عِبَادِكَ الصّٰلِحِیْنَ",
+          "translation_urdu": "اے میرے رب، مجھے قابو میں رکھ کہ میں تیرے اس احسان کا شکر ادا کرتا رہوں جو تو نے مجھ پر اور میرے والدین پر کیا ہے اور ایسا عمل صالح کروں جو تجھے پسند آئے اور اپنی رحمت سے مجھ کو اپنے صالح بندوں میں داخل کر۔",
+          "translation_english": "My Lord, inspire me to be ever grateful for the blessings You have bestowed upon me and my parents, and to perform righteous deeds that please You. And admit me, through Your mercy, among Your righteous servants."
+        },
+        {
+          "point_id": "21",
+          "title_urdu": "مفسد لوگوں کے مقابلے میں مدد کی دعا (سورۃ العنکبوت 30)",
+          "arabic_text": "رَبِّ انْصُرْنِیْ عَلَى الْقَوْمِ الْمُفْسِدِیْنَ۠",
+          "translation_urdu": "اے میرے رب، اِن مفسد لوگوں کے مقابلے میں میری مدد فرما۔",
+          "translation_english": "My Lord, grant me Your help against these people who spread corruption."
+        },
+        {
+          "point_id": "22",
+          "title_urdu": "نیک اولاد کی دعا (سورۃ الصافات 100)",
+          "arabic_text": "رَبِّ هَبْ لِیْ مِنَ الصّٰلِحِیْنَ",
+          "translation_urdu": "اے پروردگار، مجھے ایک بیٹا عطا کر جو صالحوں میں سے ہو۔",
+          "translation_english": "My Lord, grant me righteous offspring from among the pious."
+        },
+        {
+          "point_id": "23",
+          "title_urdu": "رسولوں پر سلامتی کی دعا (سورۃ الصافات 180-182)",
+          "arabic_text": "سُبْحٰنَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا یَصِفُوْنَۚ وَ سَلٰمٌ عَلَى الْمُرْسَلِیْنَۚ وَ الْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ۠",
+          "translation_urdu": "پاک ہے تیرا رب، عزت کا مالک، اُن تمام باتوں سے جو یہ لوگ بنا رہے ہیں۔ اور سلام ہے مرسلین پر۔ اور ساری تعریف اللہ ربّ العالمین ہی کے لیے ہے۔",
+          "translation_english": "Glory be to your Lord, the Lord of Honour and Might, far above all that they attribute to Him. And peace be upon all the messengers. And all praise is due to Allah, Lord of all the worlds."
+        },
+        {
+          "point_id": "24",
+          "title_urdu": "برائیوں سے حفاظت کی دعا (سورۃ غافر 7-8)",
+          "arabic_text": "رَبَّنَا وَسِعْتَ كُلَّ شَیْءٍ رَّحْمَةً وَّ عِلْمًا فَاغْفِرْ لِلَّذِیْنَ تَابُوْا وَ اتَّبَعُوْا سَبِیْلَكَ وَ قِهِمْ عَذَابَ الْجَحِیْمِ رَبَّنَا وَ اَدْخِلْهُمْ جَنّٰتِ عَدْنِ اِ۟لَّتِیْ وَعَدْتَّهُمْ وَ مَنْ صَلَحَ مِنْ اٰبَآئِهِمْ وَ اَزْوَاجِهِمْ وَ ذُرِّیّٰتِهِمْ١ؕ اِنَّكَ اَنْتَ الْعَزِیْزُ الْحَكِیْمُۙ",
+          "translation_urdu": "اے ہمارے رب، تو اپنی رحمت اور اپنے علم کے ساتھ ہر چیز پر چھایا ہوا ہے، پس معاف کر دے اور عذاب دوزخ سے بچا لے اُن لوگوں کو جنہوں نے توبہ کی ہے اور تیرا راستہ اختیار کر لیا ہے۔ اے ہمارے رب، اور داخل کر اُن کو ہمیشہ رہنے والی اُن جنتوں میں جن کا تو نے اُن سے وعدہ کیا ہے، اور اُن کے والدین اور بیویوں اور اولاد میں سے جو صالح ہوں (اُن کو بھی وہاں اُن کے ساتھ پہنچا دے) تو بلا شبہ قادر مطلق اور حکیم ہے۔",
+          "translation_english": "Our Lord, You encompass all things in mercy and knowledge. So forgive those who have repented and followed Your path, and protect them from the punishment of Hellfire. Our Lord, admit them into the Gardens of Eternity that You have promised them, along with the righteous among their parents, spouses, and descendants. Indeed, You are the All-Powerful, the All-Wise."
+        },
+        {
+          "point_id": "25",
+          "title_urdu": "برائیوں سے حفاظت کی دعا (سورۃ غافر 9)",
+          "arabic_text": "وَ قِهِمُ السَّیِّاٰتِ١ؕ وَ مَنْ تَقِ السَّیِّاٰتِ یَوْمَئِذٍ فَقَدْ رَحِمْتَهٗ١ؕ وَ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِیْمُ۠",
+          "translation_urdu": "اور بچا دے اُن کو برائیوں سے جس کو تو نے قیامت کے دن برائیوں سے بچا دیا اُس پر تو نے بڑا رحم کیا، یہی بڑی کامیابی ہے۔",
+          "translation_english": "And protect them from all evil. For whoever You protect from evil on that Day — upon him You have truly bestowed Your mercy. And that is the supreme success."
+        },
+        {
+          "point_id": "26",
+          "title_urdu": "عذاب سے حفاظت کی دعا (سورۃ الدخان 12)",
+          "arabic_text": "رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ اِنَّا مُؤْمِنُوْنَ",
+          "translation_urdu": "پروردگار! ہم پر سے یہ عذاب ٹال دے، ہم ایمان لاتے ہیں۔",
+          "translation_english": "Our Lord, remove this affliction from us — indeed, we are believers."
+        },
+        {
+          "point_id": "27",
+          "title_urdu": "شکر کی توفیق کی دعا (سورۃ الاحقاف 15)",
+          "arabic_text": "رَبِّ اَوْزِعْنِیْۤ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِیْۤ اَنْعَمْتَ عَلَیَّ وَ عَلٰى وَالِدَیَّ وَ اَنْ اَعْمَلَ صَالِحًا تَرْضٰىهُ وَ اَصْلِحْ لِیْ فِیْ ذُرِّیَّتِیْ١ؕۚ اِنِّیْ تُبْتُ اِلَیْكَ وَ اِنِّیْ مِنَ الْمُسْلِمِیْنَ",
+          "translation_urdu": "اے میرے رب، مجھے توفیق دے کہ میں تیری اُن نعمتوں کا شکر ادا کروں جو تو نے مجھے اور میرے والدین کو عطا فرمائیں، اور ایسا نیک عمل کروں جس سے تو راضی ہو، اور میری اولاد کو بھی نیک بنا کر مجھے سُکھ دے، میں تیرے حضور توبہ کرتا ہوں اور تابع فرمان (مسلم) بندوں میں سے ہوں۔",
+          "translation_english": "My Lord, inspire me to be grateful for the blessings You have bestowed upon me and my parents, and to perform righteous deeds that please You. And grant me righteousness in my offspring as well. I turn to You in sincere repentance, and I am among those who submit to You."
+        },
+        {
+          "point_id": "28",
+          "title_urdu": "اللہ پر توکل کی دعا (سورۃ الممتحنۃ 4)",
+          "arabic_text": "رَبَّنَا عَلَیْكَ تَوَكَّلْنَا وَ اِلَیْكَ اَنَبْنَا وَ اِلَیْكَ الْمَصِیْرُ",
+          "translation_urdu": "اے ہمارے رب، تیرے ہی اوپر ہم نے بھروسا کیا اور تیری ہی طرف ہم نے رجوع کر لیا اور تیرے ہی حضور ہمیں پلٹنا ہے۔",
+          "translation_english": "Our Lord, in You alone we place our trust, to You alone we turn in repentance, and unto You is our final return."
+        },
+        {
+          "point_id": "29",
+          "title_urdu": "بغض سے حفاظت کی دعا (سورۃ الحشر 10)",
+          "arabic_text": "رَبَّنَا اغْفِرْ لَنَا وَ لِاِخْوَانِنَا الَّذِیْنَ سَبَقُوْنَا بِالْاِیْمَانِ وَ لَا تَجْعَلْ فِیْ قُلُوْبِنَا غِلًّا لِّلَّذِیْنَ اٰمَنُوْا رَبَّنَاۤ اِنَّكَ رَءُوْفٌ رَّحِیْمٌ۠",
+          "translation_urdu": "اے ہمارے رب، ہمیں اور ہمارے اُن سب بھائیوں کو بخش دے جو ہم سے پہلے ایمان لائے ہیں اور ہمارے دلوں میں اہل ایمان کے لیے کوئی بغض نہ رکھ، اے ہمارے رب، تو بڑا مہربان اور رحیم ہے۔",
+          "translation_english": "Our Lord, forgive us and our brothers and sisters who preceded us in faith, and do not place in our hearts any rancour toward the believers. Our Lord, You are truly Most Kind and Most Merciful."
+        },
+        {
+          "point_id": "30",
+          "title_urdu": "قصوروں سے درگزر کی دعا (سورۃ الممتحنۃ 5)",
+          "arabic_text": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِیْنَ كَفَرُوْا وَ اغْفِرْ لَنَا رَبَّنَا١ۚ اِنَّكَ اَنْتَ الْعَزِیْزُ الْحَكِیْمُ",
+          "translation_urdu": "اے ہمارے رب، ہمیں کافروں کے لیے فتنہ نہ بنا دے اور اے ہمارے رب، ہمارے قصوروں سے درگزر فرما، بے شک تو ہی زبردست اور دانا ہے۔",
+          "translation_english": "Our Lord, do not make us a source of trial for the disbelievers, and forgive us, our Lord. Indeed, You alone are the All-Powerful, the All-Wise."
+        },
+        {
+          "point_id": "31",
+          "title_urdu": "نور کی تکمیل کی دعا (سورۃ التحریم 8)",
+          "arabic_text": "رَبَّنَاۤ اَتْمِمْ لَنَا نُوْرَنَا وَ اغْفِرْ لَنَا١ۚ اِنَّكَ عَلٰى كُلِّ شَیْءٍ قَدِیْرٌ",
+          "translation_urdu": "اے ہمارے رب، ہمارا نور ہمارے لیے مکمل کر دے اور ہم سے درگزر فرما، تو ہر چیز پر قدرت رکھتا ہے۔",
+          "translation_english": "Our Lord, perfect for us our light and forgive us. Indeed, You have power over all things."
+        },
+        {
+          "point_id": "32",
+          "title_urdu": "تمام مسلمانوں کے لئے مغفرت کی دعا (سورۃ نوح 28)",
+          "arabic_text": "رَبِّ اغْفِرْ لِیْ وَ لِوَالِدَیَّ وَ لِمَنْ دَخَلَ بَیْتِیَ مُؤْمِنًا وَّ لِلْمُؤْمِنِیْنَ وَ الْمُؤْمِنٰتِ١ؕ وَ لَا تَزِدِ الظّٰلِمِیْنَ اِلَّا تَبَارًا۠",
+          "translation_urdu": "میرے رب، مجھے اور میرے والدین کو اور ہر اس شخص کو جو میرے گھر میں مومن کی حیثیت سے داخل ہوا ہے، اور سب مومن مردوں اور عورتوں کو معاف فرما دے، اور ظالموں کے لیے ہلاکت کے سوا کسی چیز میں اضافہ نہ کر۔",
+          "translation_english": "My Lord, forgive me, my parents, and all those who enter my home as believers, and all believing men and believing women. And grant the wrongdoers nothing but ruin."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "title_main_urdu": "اللہ تعالیٰ کے اسماء الحسنیٰ (99 نام)",
+  "introduction_note": "یہ فہرست اللہ تعالیٰ کے 99 اسماء الحسنیٰ، ان کے عربی، انگریزی معنی اور اردو ترجمہ پر مشتمل ہے۔",
+  "sections": [
+    {
+      "id": "asma_ul_husna",
+      "original_section_number": 1,
+      "title_urdu": "اللہ کے 99 نام",
+      "subtitle_urdu": "فہرست اسماء الحسنیٰ:",
+      "list_type": "names",
+      "points": [
+        {
+          "point_id": 1,
+          "arabic_text": "ٱلْرَّحْمَـانُ",
+          "transliteration_english": "AR-RAHMAAN",
+          "meaning_english": "The Beneficent",
+          "translation_urdu": "بے پایاں رحم کرنے والا"
+        },
+        {
+          "point_id": 2,
+          "arabic_text": "ٱلْرَّحِيْمُ",
+          "transliteration_english": "AR-RAHEEM",
+          "meaning_english": "The Merciful",
+          "translation_urdu": "بڑا رحم کرنے والا"
+        },
+        {
+          "point_id": 3,
+          "arabic_text": "ٱلْمَلِكُ",
+          "transliteration_english": "AL-MALIK",
+          "meaning_english": "The Eternal Lord",
+          "translation_urdu": "حاکم کائنات"
+        },
+        {
+          "point_id": 4,
+          "arabic_text": "ٱلْقُدُّوسُ",
+          "transliteration_english": "AL-QUDDUS",
+          "meaning_english": "The Most Sacred",
+          "translation_urdu": "پاک"
+        },
+        {
+          "point_id": 5,
+          "arabic_text": "ٱلْسَّلَامُ",
+          "transliteration_english": "AS-SALAM",
+          "meaning_english": "The embodiment of Peace",
+          "translation_urdu": "امن و سلامتی کا سر چشمہ"
+        },
+        {
+          "point_id": 6,
+          "arabic_text": "ٱلْمُؤْمِنُ",
+          "transliteration_english": "AL-MU’MIN",
+          "meaning_english": "The Infuser of Faith",
+          "translation_urdu": "امن و امان رکھنے والا"
+        },
+        {
+          "point_id": 7,
+          "arabic_text": "ٱلْمُهَيْمِنُ",
+          "transliteration_english": "AL-MUHAYMIN",
+          "meaning_english": "The Preserver of Safety",
+          "translation_urdu": "حفاظت کرنے والا"
+        },
+        {
+          "point_id": 8,
+          "arabic_text": "ٱلْعَزِيزُ",
+          "transliteration_english": "AL-AZEEZ",
+          "meaning_english": "All Mighty",
+          "translation_urdu": "بڑے اقتدار والا"
+        },
+        {
+          "point_id": 9,
+          "arabic_text": "ٱلْجَبَّارُ",
+          "transliteration_english": "AL-JABBAR",
+          "meaning_english": "The Compeller, The Restorer",
+          "translation_urdu": "زبردست غلبہ رکھنے والا"
+        },
+        {
+          "point_id": 10,
+          "arabic_text": "ٱلْمُتَكَبِّرُ",
+          "transliteration_english": "AL-MUTAKABBIR",
+          "meaning_english": "The Supreme, The Majestic",
+          "translation_urdu": "عظمت و کبریائی کا سر چشمہ"
+        },
+        {
+          "point_id": 11,
+          "arabic_text": "ٱلْخَالِقُ",
+          "transliteration_english": "AL-KHAALIQ",
+          "meaning_english": "The Creator, The Maker",
+          "translation_urdu": "وجود بخشنے والا، پیدا کرنے والا"
+        },
+        {
+          "point_id": 12,
+          "arabic_text": "ٱلْبَارِئُ",
+          "transliteration_english": "AL-BAARI’",
+          "meaning_english": "The Evolver",
+          "translation_urdu": "ہر چیز کو عدم سے وجود میں لانے والا"
+        },
+        {
+          "point_id": 13,
+          "arabic_text": "ٱلْمُصَوِّرُ",
+          "transliteration_english": "AL-MUSAWWIR",
+          "meaning_english": "The Fashioner",
+          "translation_urdu": "مخلوقات کی صورت گری کرنے والا"
+        },
+        {
+          "point_id": 14,
+          "arabic_text": "ٱلْغَفَّارُ",
+          "transliteration_english": "AL-GHAFFAR",
+          "meaning_english": "The Great Forgiver",
+          "translation_urdu": "بڑا درگزر کرنے والا"
+        },
+        {
+          "point_id": 15,
+          "arabic_text": "ٱلْقَهَّارُ",
+          "transliteration_english": "AL-QAHHAR",
+          "meaning_english": "The All-Prevailing One",
+          "translation_urdu": "اپنی مخلوق پر کامل غلبہ اور اختیار رکھنے والا"
+        },
+        {
+          "point_id": 16,
+          "arabic_text": "ٱلْوَهَّابُ",
+          "transliteration_english": "AL-WAHHAAB",
+          "meaning_english": "The Supreme Bestower",
+          "translation_urdu": "بے غرض بخشش اور سخاوت کرنے والا"
+        },
+        {
+          "point_id": 17,
+          "arabic_text": "ٱلْرَّزَّاقُ",
+          "transliteration_english": "AR-RAZZAAQ",
+          "meaning_english": "The Provider",
+          "translation_urdu": "حاجت روا"
+        },
+        {
+          "point_id": 18,
+          "arabic_text": "ٱلْفَتَّاحُ",
+          "transliteration_english": "AL-FATTAAH",
+          "meaning_english": "The Supreme Solver",
+          "translation_urdu": "مشکلوں کو حل کرنے والا"
+        },
+        {
+          "point_id": 19,
+          "arabic_text": "ٱلْعَلِيمُ",
+          "transliteration_english": "AL-‘ALEEM",
+          "meaning_english": "The All-Knowing",
+          "translation_urdu": "ہر چیز جاننے والا"
+        },
+        {
+          "point_id": 20,
+          "arabic_text": "ٱلْقَابِضُ",
+          "transliteration_english": "AL-QAABID",
+          "meaning_english": "The Withholder",
+          "translation_urdu": "ہر شے پر قبضہ رکھنے والا"
+        },
+        {
+          "point_id": 21,
+          "arabic_text": "ٱلْبَاسِطُ",
+          "transliteration_english": "AL-BAASIT",
+          "meaning_english": "The Extender",
+          "translation_urdu": "وسعت دینے والا"
+        },
+        {
+          "point_id": 22,
+          "arabic_text": "ٱلْخَافِضُ",
+          "transliteration_english": "AL-KHAAFIDH",
+          "meaning_english": "The Reducer",
+          "translation_urdu": "پست کرنے والا"
+        },
+        {
+          "point_id": 23,
+          "arabic_text": "ٱلْرَّافِعُ",
+          "transliteration_english": "AR-RAAFI’",
+          "meaning_english": "The Exalter, The Elevator",
+          "translation_urdu": "وہ جو بلندیاں عطا کرتا ہے"
+        },
+        {
+          "point_id": 24,
+          "arabic_text": "ٱلْمُعِزُّ",
+          "transliteration_english": "AL-MU’IZZ",
+          "meaning_english": "The Honourer, The Bestower",
+          "translation_urdu": "عزت دینے والا"
+        },
+        {
+          "point_id": 25,
+          "arabic_text": "ٱلْمُذِلُّ",
+          "transliteration_english": "AL-MUZIL",
+          "meaning_english": "The Dishonourer, The Humiliator",
+          "translation_urdu": "ذلت دینے والا"
+        },
+        {
+          "point_id": 26,
+          "arabic_text": "ٱلْسَّمِيعُ",
+          "transliteration_english": "AS-SAMEE’",
+          "meaning_english": "The All-Hearing",
+          "translation_urdu": "بندوں کی سننے والا"
+        },
+        {
+          "point_id": 27,
+          "arabic_text": "ٱلْبَصِيرُ",
+          "transliteration_english": "AL-BASEER",
+          "meaning_english": "The All-Seeing",
+          "translation_urdu": "ہر چیز کو دیکھنے والا"
+        },
+        {
+          "point_id": 28,
+          "arabic_text": "ٱلْحَكَمُ",
+          "transliteration_english": "AL-HAKAM",
+          "meaning_english": "The Impartial Judge",
+          "translation_urdu": "انصاف کرنے والا"
+        },
+        {
+          "point_id": 29,
+          "arabic_text": "ٱلْعَدْلُ",
+          "transliteration_english": "AL-‘ADL",
+          "meaning_english": "The Utterly Just",
+          "translation_urdu": "عدل کرنے والا"
+        },
+        {
+          "point_id": 30,
+          "arabic_text": "ٱلْلَّطِيفُ",
+          "transliteration_english": "AL-LATEEF",
+          "meaning_english": "The Subtle One, The Most Gentle",
+          "translation_urdu": "بڑا لطیف و کرم کرنے والا"
+        },
+        {
+          "point_id": 31,
+          "arabic_text": "ٱلْخَبِيرُ",
+          "transliteration_english": "AL-KHABEER",
+          "meaning_english": "The All-Aware",
+          "translation_urdu": "باخبر اور آگاہ"
+        },
+        {
+          "point_id": 32,
+          "arabic_text": "ٱلْحَلِيمُ",
+          "transliteration_english": "AL-HALEEM",
+          "meaning_english": "The Most Forbearing",
+          "translation_urdu": "بڑا بردبار اور برداشت کرنے والا"
+        },
+        {
+          "point_id": 33,
+          "arabic_text": "ٱلْعَظِيمُ",
+          "transliteration_english": "AL-‘ATHEEM",
+          "meaning_english": "The Magnificent, The Supreme",
+          "translation_urdu": "بڑی بزرگی والا"
+        },
+        {
+          "point_id": 34,
+          "arabic_text": "ٱلْغَفُورُ",
+          "transliteration_english": "AL-GHAFOOR",
+          "meaning_english": "The Great Forgiver",
+          "translation_urdu": "بڑا بخشش کرنے والا"
+        },
+        {
+          "point_id": 35,
+          "arabic_text": "ٱلْشَّكُورُ",
+          "transliteration_english": "ASH-SHAKOOR",
+          "meaning_english": "The Most Appreciative",
+          "translation_urdu": "بڑا قدر کرنے والا"
+        },
+        {
+          "point_id": 36,
+          "arabic_text": "ٱلْعَلِيُّ",
+          "transliteration_english": "AL-‘ALEE",
+          "meaning_english": "The Most High, The Exalted",
+          "translation_urdu": "بڑی بلندیوں والا"
+        },
+        {
+          "point_id": 37,
+          "arabic_text": "ٱلْكَبِيرُ",
+          "transliteration_english": "AL-KABEER",
+          "meaning_english": "The Preserver, The All-Heedful and All-Protecting",
+          "translation_urdu": "بہت بڑا"
+        },
+        {
+          "point_id": 38,
+          "arabic_text": "ٱلْحَفِيظُ",
+          "transliteration_english": "AL-HAFEEDH",
+          "meaning_english": "The Preserver",
+          "translation_urdu": "سب کا محافظ، حفاظت کرنے والا"
+        },
+        {
+          "point_id": 39,
+          "arabic_text": "ٱلْمُقِيتُ",
+          "transliteration_english": "AL-MUQEET",
+          "meaning_english": "The Sustainer",
+          "translation_urdu": "سب کو روزی اور توانائی دینے والا"
+        },
+        {
+          "point_id": 40,
+          "arabic_text": "ٱلْحَسِيبُ",
+          "transliteration_english": "AL-HASEEB",
+          "meaning_english": "The Reckoner",
+          "translation_urdu": "بڑا شمار کنندہ"
+        },
+        {
+          "point_id": 41,
+          "arabic_text": "ٱلْجَلِيلُ",
+          "transliteration_english": "AL-JALEEL",
+          "meaning_english": "The Majestic",
+          "translation_urdu": "بلند مرتبے والا"
+        },
+        {
+          "point_id": 42,
+          "arabic_text": "ٱلْكَرِيمُ",
+          "transliteration_english": "AL-KAREEM",
+          "meaning_english": "The Most Generous, The Most Esteemed",
+          "translation_urdu": "بڑا کرم کرنے والا"
+        },
+        {
+          "point_id": 43,
+          "arabic_text": "ٱلْرَّقِيبُ",
+          "transliteration_english": "AR-RAQEEB",
+          "meaning_english": "The Watchful",
+          "translation_urdu": "بڑا نگہبان"
+        },
+        {
+          "point_id": 44,
+          "arabic_text": "ٱلْمُجِيبُ",
+          "transliteration_english": "AL-MUJEEB",
+          "meaning_english": "The Responsive One",
+          "translation_urdu": "دعائیں قبول کرنے والا"
+        },
+        {
+          "point_id": 45,
+          "arabic_text": "ٱلْوَاسِعُ",
+          "transliteration_english": "AL-WAASI’",
+          "meaning_english": "The All-Encompassing, the Boundless",
+          "translation_urdu": "بڑی وسعت والا"
+        },
+        {
+          "point_id": 46,
+          "arabic_text": "ٱلْحَكِيمُ",
+          "transliteration_english": "AL-HAKEEM",
+          "meaning_english": "The All-Wise",
+          "translation_urdu": "بڑی حکمت والا"
+        },
+        {
+          "point_id": 47,
+          "arabic_text": "ٱلْوَدُودُ",
+          "transliteration_english": "AL-WADOOD",
+          "meaning_english": "The Most Loving",
+          "translation_urdu": "بڑا محبت کرنے والا"
+        },
+        {
+          "point_id": 48,
+          "arabic_text": "ٱلْمَجِيدُ",
+          "transliteration_english": "AL-MAJEED",
+          "meaning_english": "The Glorious, The Most Honorable",
+          "translation_urdu": "بڑی بزرگی والا"
+        },
+        {
+          "point_id": 49,
+          "arabic_text": "ٱلْبَاعِثُ",
+          "transliteration_english": "AL-BA’ITH",
+          "meaning_english": "The Infuser of New Life",
+          "translation_urdu": "مردوں کو زندہ کرنے والا"
+        },
+        {
+          "point_id": 50,
+          "arabic_text": "ٱلْشَّهِيدُ",
+          "transliteration_english": "ASH-SHAHEED",
+          "meaning_english": "The All Observing Witnessing",
+          "translation_urdu": "حاضر و ناظر"
+        },
+        {
+          "point_id": 51,
+          "arabic_text": "ٱلْحَقُّ",
+          "transliteration_english": "AL-HAQQ",
+          "meaning_english": "The Absolute Truth",
+          "translation_urdu": "برحق و برقرار"
+        },
+        {
+          "point_id": 52,
+          "arabic_text": "ٱلْوَكِيلُ",
+          "transliteration_english": "AL-WAKEEL",
+          "meaning_english": "The Trustee, The Disposer of Affairs",
+          "translation_urdu": "بڑا کار ساز"
+        },
+        {
+          "point_id": 53,
+          "arabic_text": "ٱلْقَوِيُّ",
+          "transliteration_english": "AL-QAWIYY",
+          "meaning_english": "The All-Strong",
+          "translation_urdu": "بڑی طاقت و قوت والا"
+        },
+        {
+          "point_id": 54,
+          "arabic_text": "ٱلْمَتِينُ",
+          "transliteration_english": "AL-MATEEN",
+          "meaning_english": "The Firm, The Steadfast",
+          "translation_urdu": "انتہائی مضبوط و مستحکم"
+        },
+        {
+          "point_id": 55,
+          "arabic_text": "ٱلْوَلِيُّ",
+          "transliteration_english": "AL-WALIYY",
+          "meaning_english": "The Protecting Associatey",
+          "translation_urdu": "مدد گار اور حمایتی"
+        },
+        {
+          "point_id": 56,
+          "arabic_text": "ٱلْحَمِيدُ",
+          "transliteration_english": "AL-HAMEED",
+          "meaning_english": "The Praiseworthy",
+          "translation_urdu": "تعریف کے لائق"
+        },
+        {
+          "point_id": 57,
+          "arabic_text": "ٱلْمُحْصِيُ",
+          "transliteration_english": "AL-MUHSEE",
+          "meaning_english": "The All-Enumerating, The Counter",
+          "translation_urdu": "اپنے علم اور شمار میں رکھنے والا"
+        },
+        {
+          "point_id": 58,
+          "arabic_text": "ٱلْمُبْدِئُ",
+          "transliteration_english": "AL-MUBDI",
+          "meaning_english": "The Originator, The Initiator",
+          "translation_urdu": "پہلی بار پیدا کرنے والا"
+        },
+        {
+          "point_id": 59,
+          "arabic_text": "ٱلْمُعِيدُ",
+          "transliteration_english": "AL-MU’ID",
+          "meaning_english": "The Restorer, The Reinstater",
+          "translation_urdu": "دوبارہ پیدا کرنے والا"
+        },
+        {
+          "point_id": 60,
+          "arabic_text": "ٱلْمُحْيِى",
+          "transliteration_english": "AL-MUHYEE",
+          "meaning_english": "The Giver of Life",
+          "translation_urdu": "زندگی دینے والا"
+        },
+        {
+          "point_id": 61,
+          "arabic_text": "ٱلْمُمِيتُ",
+          "transliteration_english": "AL-MUMEET",
+          "meaning_english": "The Inflicter of Death",
+          "translation_urdu": "موت دینے والا"
+        },
+        {
+          "point_id": 62,
+          "arabic_text": "ٱلْحَىُّ",
+          "transliteration_english": "AL-HAYY",
+          "meaning_english": "The Ever-Living",
+          "translation_urdu": "ہمیشہ ہمیشہ زندہ رہنے والا"
+        },
+        {
+          "point_id": 63,
+          "arabic_text": "ٱلْقَيُّومُ",
+          "transliteration_english": "AL-QAYYOOM",
+          "meaning_english": "The Sustainer, The Self-Subsisting",
+          "translation_urdu": "قائم رکھنے اور سنبھالنے والا"
+        },
+        {
+          "point_id": 64,
+          "arabic_text": "ٱلْوَاجِدُ",
+          "transliteration_english": "AL-WAAJID",
+          "meaning_english": "The Perceiver",
+          "translation_urdu": "ہر چیز کا پانے والا"
+        },
+        {
+          "point_id": 65,
+          "arabic_text": "ٱلْمَاجِدُ",
+          "transliteration_english": "AL-MAAJID",
+          "meaning_english": "The Illustrious, the Magnificent",
+          "translation_urdu": "بزرگی اور بڑائی والا"
+        },
+        {
+          "point_id": 66,
+          "arabic_text": "ٱلْوَاحِدُ",
+          "transliteration_english": "AL-WAAHID",
+          "meaning_english": "The One",
+          "translation_urdu": "بے مثال، اکیلا"
+        },
+        {
+          "point_id": 67,
+          "arabic_text": "ٱلْأَحَد",
+          "transliteration_english": "AL-AHAD",
+          "meaning_english": "The Unique, The Only One",
+          "translation_urdu": "اکیلا"
+        },
+        {
+          "point_id": 68,
+          "arabic_text": "ٱلْصَّمَدُ",
+          "transliteration_english": "AS-SAMAD",
+          "meaning_english": "The Eternal, Satisfier of Needs",
+          "translation_urdu": "بے نیاز جو کسی کام کا محتاج نہیں"
+        },
+        {
+          "point_id": 69,
+          "arabic_text": "ٱلْقَادِرُ",
+          "transliteration_english": "AL-QADIR",
+          "meaning_english": "The Omnipotent One",
+          "translation_urdu": "بڑی قدرت والا"
+        },
+        {
+          "point_id": 70,
+          "arabic_text": "ٱلْمُقْتَدِرُ",
+          "transliteration_english": "AL-MUQTADIR",
+          "meaning_english": "The Powerful",
+          "translation_urdu": "بڑی قدرت والا"
+        },
+        {
+          "point_id": 71,
+          "arabic_text": "ٱلْمُقَدِّمُ",
+          "transliteration_english": "AL-MUQADDIM",
+          "meaning_english": "The Expediter, The Promoter",
+          "translation_urdu": "آگے بڑھانے والا"
+        },
+        {
+          "point_id": 72,
+          "arabic_text": "ٱلْمُؤَخِّرُ",
+          "transliteration_english": "AL-MU’AKHKHIR",
+          "meaning_english": "The Delayer",
+          "translation_urdu": "پیچھے رکھنے والا"
+        },
+        {
+          "point_id": 73,
+          "arabic_text": "ٱلأَوَّلُ",
+          "transliteration_english": "AL-AWWAL",
+          "meaning_english": "The First",
+          "translation_urdu": "سب سے پہلے"
+        },
+        {
+          "point_id": 74,
+          "arabic_text": "ٱلْآخِرُ",
+          "transliteration_english": "AL-AAKHIR",
+          "meaning_english": "The Last",
+          "translation_urdu": "سب کے بعد"
+        },
+        {
+          "point_id": 75,
+          "arabic_text": "ٱلْظَّاهِرُ",
+          "transliteration_english": "AZ-DHAAHIR",
+          "meaning_english": "The Manifest",
+          "translation_urdu": "ظاہر و آشکار"
+        },
+        {
+          "point_id": 76,
+          "arabic_text": "ٱلْبَاطِنُ",
+          "transliteration_english": "AL-BAATIN",
+          "meaning_english": "The Hidden One, Knower of the Hidden",
+          "translation_urdu": "پوشیدہ و نہاں"
+        },
+        {
+          "point_id": 77,
+          "arabic_text": "ٱلْوَالِي",
+          "transliteration_english": "AL-WAALI",
+          "meaning_english": "The Governor, The Patron",
+          "translation_urdu": "سر پرست، متصرف"
+        },
+        {
+          "point_id": 78,
+          "arabic_text": "ٱلْمُتَعَالِي",
+          "transliteration_english": "AL-MUTA’ALI",
+          "meaning_english": "The Self Exalted",
+          "translation_urdu": "سب سے بلند و برتر"
+        },
+        {
+          "point_id": 79,
+          "arabic_text": "ٱلْبَرُّ",
+          "transliteration_english": "AL-BARR",
+          "meaning_english": "The Source of All Goodness",
+          "translation_urdu": "تمام اچھائیوں کا سر چشمہ"
+        },
+        {
+          "point_id": 80,
+          "arabic_text": "ٱلْتَّوَّابُ",
+          "transliteration_english": "AT-TAWWAB",
+          "meaning_english": "The Ever-Pardoning, The Relenting",
+          "translation_urdu": "توبہ قبول کرنے والا"
+        },
+        {
+          "point_id": 81,
+          "arabic_text": "ٱلْمُنْتَقِمُ",
+          "transliteration_english": "AL-MUNTAQIM",
+          "meaning_english": "The Avenger",
+          "translation_urdu": "بدلہ لینے والا"
+        },
+        {
+          "point_id": 82,
+          "arabic_text": "ٱلْعَفُوُّ",
+          "transliteration_english": "AL-‘AFUWW",
+          "meaning_english": "The Pardoner",
+          "translation_urdu": "معاف کرنے والا"
+        },
+        {
+          "point_id": 83,
+          "arabic_text": "ٱلْرَّؤُفُ",
+          "transliteration_english": "AR-RA’OOF",
+          "meaning_english": "The Most Kin",
+          "translation_urdu": "بڑا مشفق و مہربان"
+        },
+        {
+          "point_id": 84,
+          "arabic_text": "مَالِكُ ٱلْمُلْكُ",
+          "transliteration_english": "MAALIK-UL-MULK",
+          "meaning_english": "Master of the Kingdom, Owner of the Dominion",
+          "translation_urdu": "ملکوں کا مالک"
+        },
+        {
+          "point_id": 85,
+          "arabic_text": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامُ",
+          "transliteration_english": "DHUL-JALAALI WAL-IKRAAM",
+          "meaning_english": "Possessor of Glory and Honour, Lord of Majesty and Generosity",
+          "translation_urdu": "عظمت و جلال اور انعام و اکرام والا"
+        },
+        {
+          "point_id": 86,
+          "arabic_text": "ٱلْمُقْسِطُ",
+          "transliteration_english": "AL-MUQSIT",
+          "meaning_english": "The Just One",
+          "translation_urdu": "عدل و انصاف قائم رکھنے والا"
+        },
+        {
+          "point_id": 87,
+          "arabic_text": "ٱلْجَامِعُ",
+          "transliteration_english": "AL-JAAMI’",
+          "meaning_english": "The Gatherer, the Uniter",
+          "translation_urdu": "جمع کرنے والا"
+        },
+        {
+          "point_id": 88,
+          "arabic_text": "ٱلْغَنيُّ",
+          "transliteration_english": "AL-GHANIYY",
+          "meaning_english": "The Self-Sufficient, The Wealthy",
+          "translation_urdu": "خود کفیل و بےپرواہ"
+        },
+        {
+          "point_id": 89,
+          "arabic_text": "ٱلْمُغْنِيُّ",
+          "transliteration_english": "AL-MUGHNI",
+          "meaning_english": "The Enricher",
+          "translation_urdu": "توانگر بنانے والا"
+        },
+        {
+          "point_id": 90,
+          "arabic_text": "ٱلْمَانِعُ",
+          "transliteration_english": "AL-MANI’",
+          "meaning_english": "The Withholder",
+          "translation_urdu": "روکنے والا"
+        },
+        {
+          "point_id": 91,
+          "arabic_text": "ٱلْضَّارُ",
+          "transliteration_english": "AD-DHARR",
+          "meaning_english": "The Distresser",
+          "translation_urdu": "ضرر پہنچانے والا"
+        },
+        {
+          "point_id": 92,
+          "arabic_text": "ٱلْنَّافِعُ",
+          "transliteration_english": "AN-NAFI’",
+          "meaning_english": "The Propitious, the Benefactor",
+          "translation_urdu": "نفع پہنچانے والا"
+        },
+        {
+          "point_id": 93,
+          "arabic_text": "ٱلْنُّورُ",
+          "transliteration_english": "AN-NUR",
+          "meaning_english": "The Light, The Illuminator",
+          "translation_urdu": "نو راور انوار بخشنے والا"
+        },
+        {
+          "point_id": 94,
+          "arabic_text": "ٱلْهَادِي",
+          "transliteration_english": "AL-HAADI",
+          "meaning_english": "The Guide",
+          "translation_urdu": "سیدھی راہ دکھانے والا"
+        },
+        {
+          "point_id": 95,
+          "arabic_text": "ٱلْبَدِيعُ",
+          "transliteration_english": "AL-BADEE’",
+          "meaning_english": "The Incomparable Originator",
+          "translation_urdu": "بے مثال چیزوں کا پیدا کرنے والا"
+        },
+        {
+          "point_id": 96,
+          "arabic_text": "ٱلْبَاقِي",
+          "transliteration_english": "AL-BAAQI",
+          "meaning_english": "The Everlasting",
+          "translation_urdu": "ہمیشہ باقی رہنے والا"
+        },
+        {
+          "point_id": 97,
+          "arabic_text": "ٱلْوَارِثُ",
+          "transliteration_english": "AL-WAARITH",
+          "meaning_english": "The Inheritor, The Heir",
+          "translation_urdu": "سب کے بعد موجود رہنے والا"
+        },
+        {
+          "point_id": 98,
+          "arabic_text": "ٱلْرَّشِيدُ",
+          "transliteration_english": "AR-RASHEED",
+          "meaning_english": "The Guide, Infallible Teacher",
+          "translation_urdu": "صحیح راہ پر چلانے والا"
+        },
+        {
+          "point_id": 99,
+          "arabic_text": "ٱلْصَّبُورُ",
+          "transliteration_english": "AS-SABOOR",
+          "meaning_english": "The Forbearing, The Patient",
+          "translation_urdu": "بڑے صبر و تحمل والا"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+name: quran_pak
+description: Deen Muslim — premium Islamic companion
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  device_preview: ^1.2.0
+  geolocator: ^13.0.2
+  http: ^1.2.0
+  shared_preferences: ^2.3.2
+  flutter_compass: ^0.8.0
+  audioplayers: ^6.1.0
+  flutter_local_notifications: ^17.2.4
+  timezone: ^0.9.4
+  flutter_timezone: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/image.png
+    - assets/compass.webp
+    - assets/asmaulhusna.json
+    - assets/dua.json
+    - assets/quran_data.json
+    - assets/adhan.mp3
+  fonts:
+    - family: Amiri
+      fonts:
+        - asset: assets/fonts/Amiri Regular.ttf
+
+# ── App Icon Configuration ────────────────────────────────
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/image.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/image.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21
+
+# ── Splash Screen Configuration ───────────────────────────
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#0F3D1A"
+  image: "assets/image.png"
+  image_dark: "assets/image.png"
+  android_12:
+    image: "assets/image.png"
+    icon_background_color: "#FFFFFF"
+    icon_background_color_dark: "#0F3D1A"
+  android: true
+  ios: true
+  web: false
+  fullscreen: true

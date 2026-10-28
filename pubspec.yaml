@@ -1,7 +1,7 @@
 name: quran_pak
-description: Deen Muslim — premium Islamic companion
+description: Quran Pak - Duas & Prayer Time — premium Islamic companion
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
-  device_preview: ^1.2.0
+  
   geolocator: ^13.0.2
   http: ^1.2.0
   shared_preferences: ^2.3.2
@@ -19,6 +19,10 @@ dependencies:
   flutter_local_notifications: ^17.2.4
   timezone: ^0.9.4
   flutter_timezone: ^3.0.1
+  just_audio: ^0.9.40
+  just_audio_background: ^0.0.1-beta.13
+  path_provider: ^2.1.4
+  dio: ^5.7.0 # For reliable downloads
 
 dev_dependencies:
   flutter_test:
@@ -30,7 +34,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/logo.png
+    
     - assets/image.png
     - assets/compass.webp
     - assets/asmaulhusna.json
@@ -40,14 +44,15 @@ flutter:
   fonts:
     - family: Amiri
       fonts:
-        - asset: assets/fonts/Amiri Regular.ttf
+        - asset: assets/fonts/Amiri-Regular.ttf
 
 # ── App Icon Configuration ────────────────────────────────
 flutter_launcher_icons:
-  android: true
+  android: "launcher_icon"
   ios: true
   image_path: "assets/image.png"
-  adaptive_icon_background: "#FFFFFF"
+  # Using the dark green from your logo as the background for the adaptive icon
+  adaptive_icon_background: "#0F3D1A" 
   adaptive_icon_foreground: "assets/image.png"
   remove_alpha_ios: true
   min_sdk_android: 21

@@ -1,29 +1,24 @@
-import 'package:flutter/foundation.dart' show kReleaseMode;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:device_preview/device_preview.dart';
-import 'package:quran_pak/adhan_service.dart';
+import 'package:just_audio_background/just_audio_background.dart';
 import 'package:quran_pak/global_keys.dart';
-import 'package:quran_pak/location_service.dart';
-import 'package:quran_pak/quran.dart';
 import 'package:quran_pak/splash.dart';
 import 'package:quran_pak/theme_controller.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  // ── Initialize background audio service (notification + lock screen) ──
+  await JustAudioBackground.init(
+    androidNotificationChannelId: 'com.quranpak.audio',
+    androidNotificationChannelName: 'Quran Recitation',
+    androidNotificationOngoing: true,
+    androidStopForegroundOnPause: true,
+  );
+
   await SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
 
-  await BookmarkStore.instance.load();
-  // Location cache must be loaded before Adhan (it reads it when scheduling).
-  await LocationService.instance.init();
-  await AdhanService.instance.init();
-
-  runApp(
-    DevicePreview(
-      enabled: true, // never ship the device-frame wrapper
-      builder: (context) => const QuranPakApp(),
-    ),
-  );
+  runApp(const QuranPakApp());
 }
 
 class QuranPakApp extends StatefulWidget {
@@ -35,6 +30,12 @@ class QuranPakApp extends StatefulWidget {
 
 class _QuranPakAppState extends State<QuranPakApp> {
   final ThemeController _themeController = ThemeController();
+
+  @override
+  void dispose() {
+    _themeController.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -86,12 +87,7 @@ class _QuranPakAppState extends State<QuranPakApp> {
               ),
             ),
           ),
-
-          // ── DevicePreview hooks ─────────────────────────────────
-          locale: DevicePreview.locale(context),
           builder: (context, child) {
-            child = DevicePreview.appBuilder(context, child);
-
             final mq = MediaQuery.of(context);
             return MediaQuery(
               data: mq.copyWith(
@@ -100,11 +96,9 @@ class _QuranPakAppState extends State<QuranPakApp> {
                   maxScaleFactor: 1.25,
                 ),
               ),
-              child: child,
+              child: child ?? const SizedBox.shrink(),
             );
           },
-          // ────────────────────────────────────────────────────────
-
           home: SplashPage(themeController: _themeController),
         );
       },

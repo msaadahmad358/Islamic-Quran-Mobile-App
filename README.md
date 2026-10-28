@@ -1,64 +1,69 @@
-Quran Pak
+# Quran Pak
 
-Quran Pak is a Flutter app for daily Islamic practice. You can read the Quran, check prayer times, get Adhan notifications, find the Qibla direction, count dhikr, and browse duas and the 99 Names of Allah.
+Quran Pak is a Flutter mobile app for daily Islamic practice. It brings together Quran reading, prayer times, Adhan alerts, Qibla direction, Dhikr counting, and daily duas in one clean application. The project is designed for Muslim users who want an easy and modern way to stay connected to worship and spiritual learning.
 
-FEATURES
+## Features
 
-- Quran: browse all surahs, read ayah by ayah, and bookmark ayahs (saved on the device).
-- Prayer Times: daily timings by GPS location or a chosen city, with your choice of calculation method and school (Hanafi or Shafi).
-- Adhan Notifications: the Adhan plays at prayer time, or a set number of minutes before.
-- Qibla: compass showing the Qibla direction.
-- Digital Tasbih: tap counter with different dhikr to choose from.
-- Asma ul Husna: the 99 Names of Allah.
-- Duas: supplications grouped by category, plus a daily dua on the home screen.
-- Settings: dark or light theme, Adhan on/off, and notification timing.
+- Read Quran verses and browse surahs in a user-friendly layout.
+- Save bookmarked verses locally on the device.
+- View prayer timings using GPS or a selected city.
+- Choose calculation methods and school settings for prayer times.
+- Get Adhan notifications before or at prayer time.
+- Use the Qibla compass to find the correct direction of prayer.
+- Count Dhikr with a digital tasbih counter.
+- Explore the 99 names of Allah in Asma ul Husna.
+- Read categorized duas for daily worship and remembrance.
+- Switch between light and dark themes for comfortable reading.
 
-PRAYER TIMES
+## Tech Stack
 
-Timings come from the AlAdhan API (aladhan.com). The app supports many calculation methods, such as Karachi, ISNA, Muslim World League, Umm Al-Qura, Egyptian, Gulf, Turkey (Diyanet), Moonsighting Committee and JAKIM. The default school is Hanafi.
+- Flutter
+- Dart
+- HTTP
+- Shared Preferences
+- Geolocator
+- Flutter Compass
+- Audioplayers
+- Flutter Local Notifications
+- Timezone
+- JSON assets for local Islamic content
 
-PROJECT FILES (inside the lib folder)
+## Project Structure
 
-- main.dart: app entry point and theme setup
-- splash.dart: splash screen
-- home.dart: home screen with feature tiles
-- quran.dart: surah list, reader and bookmarks
-- prayertimes.dart: prayer times page and pickers
-- adhan_service.dart: Adhan scheduling and notifications
-- location_service.dart: GPS, saved location and city lookup
-- qibla.dart: Qibla compass
-- digitaltasbih.dart: tasbih counter
-- asmaulhusna.dart: the 99 Names
-- duas.dart: duas by category
-- settings.dart: settings page
-- theme_controller.dart: light/dark theme state
-- global_keys.dart: shared keys
+- `lib/main.dart` - application entry point and setup
+- `lib/home.dart` - main dashboard and feature navigation
+- `lib/quran.dart` - Quran reading and bookmarks
+- `lib/prayertimes.dart` - prayer timing screens and settings
+- `lib/adhan_service.dart` - Adhan scheduling and reminders
+- `lib/location_service.dart` - GPS and city lookup logic
+- `lib/qibla.dart` - compass-based Qibla direction
+- `lib/digitaltasbih.dart` - digital Dhikr counter
+- `lib/asmaulhusna.dart` - 99 names interface
+- `lib/duas.dart` - dua categories and contents
+- `lib/settings.dart` - user preferences and toggles
 
-HOW TO RUN
+## How to Run
 
 1. Install the Flutter SDK.
-2. Open the project folder in a terminal.
-3. Run "flutter pub get" to install packages.
-4. Connect a device or emulator and run "flutter run".
+2. Clone this repository.
+3. Open the project folder in a terminal.
+4. Run `flutter pub get`.
+5. Connect a device or emulator.
+6. Run `flutter run`.
 
-PACKAGES USED
+## Permissions
 
-http, shared_preferences, geolocator, flutter_compass, flutter_local_notifications, flutter_timezone, timezone, audioplayers, and device_preview.
+- Location access for prayer time and Qibla direction.
+- Notification permission for Adhan alerts.
+- Exact alarm permission on Android 12+ for timed reminders.
 
-ASSETS NEEDED
+## Notes
 
-Add these files to the assets folder and list them in pubspec.yaml: quran_data.json, asmaulhusna.json, dua.json, adhan.mp3, compass.webp and image.png. On Android, also put adhan.mp3 in android/app/src/main/res/raw so notifications can play it.
+- Prayer timings are powered by the AlAdhan API.
+- City-based lookup is supported for convenience.
+- Local JSON files are used for Quran, dua, and Asma ul Husna content.
+- Device preview is intended for development and should be disabled before release builds.
 
-PERMISSIONS
+## Purpose
 
-- Location: for prayer times and Qibla.
-- Notifications: for Adhan alerts.
-- Exact alarms (Android 12 and above): so the Adhan fires on time.
-
-BEFORE RELEASING
-
-In main.dart, DevicePreview is set to enabled: true. Turn it off before building a release version.
-
-CREDITS
-
-Prayer times: AlAdhan API. City lookup: BigDataCloud.
+This app aims to make Islamic daily practices easier, more organized, and more accessible for users on mobile devices. It combines modern app design with practical religious tools in a compact and useful package.

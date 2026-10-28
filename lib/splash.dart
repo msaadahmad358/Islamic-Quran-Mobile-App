@@ -1,7 +1,27 @@
 import 'dart:async';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:quran_pak/adhan_service.dart';
 import 'package:quran_pak/home.dart';
+import 'package:quran_pak/location_service.dart';
+import 'package:quran_pak/quran.dart';
 import 'package:quran_pak/theme_controller.dart';
+
+/// Runs all startup work safely. A failure in one step never blocks the app.
+Future<void> _bootstrap() async {
+  Future<void> safe(String name, Future<void> Function() task) async {
+    try {
+      await task().timeout(const Duration(seconds: 10));
+    } catch (e, st) {
+      debugPrint('Startup step "$name" failed: $e\n$st');
+    }
+  }
+
+  await safe('bookmarks', () => BookmarkStore.instance.load());
+  // Location cache must be loaded before Adhan (it reads it when scheduling).
+  await safe('location', () => LocationService.instance.init());
+  await safe('adhan', () => AdhanService.instance.init());
+}
 
 class SplashPage extends StatefulWidget {
   final ThemeController themeController;
@@ -14,17 +34,13 @@ class SplashPage extends StatefulWidget {
 
 class _SplashPageState extends State<SplashPage>
     with SingleTickerProviderStateMixin {
-  // Only the loading line animates
   late AnimationController _lineController;
   late Animation<double> _lineProgress;
-
-  Timer? _navTimer;
 
   @override
   void initState() {
     super.initState();
 
-    // Loading line runs over 3.5s to fill fully
     _lineController = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 3500),
@@ -38,16 +54,27 @@ class _SplashPageState extends State<SplashPage>
     );
 
     _lineController.forward();
-
-    // Navigate after 3.5s
-    _navTimer = Timer(const Duration(milliseconds: 3500), _goHome);
+    _start();
   }
 
   @override
   void dispose() {
-    _navTimer?.cancel();
     _lineController.dispose();
     super.dispose();
+  }
+
+  Future<void> _start() async {
+    try {
+      await Future.wait([
+        // Never wait more than 8s for startup work
+        _bootstrap().timeout(const Duration(seconds: 8), onTimeout: () {}),
+        // Minimum splash time
+        Future.delayed(const Duration(milliseconds: 3500)),
+      ]);
+    } catch (e) {
+      debugPrint('Splash start error: $e');
+    }
+    _goHome();
   }
 
   void _goHome() {
@@ -69,16 +96,13 @@ class _SplashPageState extends State<SplashPage>
     final theme = Theme.of(context);
     final isDark = theme.brightness == Brightness.dark;
 
-    // Foreground tints adapt to theme
     final textPrimary = isDark ? Colors.white : const Color(0xFF0F3D1A);
     final textSecondary = isDark
         ? Colors.white.withValues(alpha: 0.6)
         : const Color(0xFF0F3D1A).withValues(alpha: 0.55);
 
-    // Background: pure white (light mode) / deep green (dark mode)
     final bgColor = isDark ? const Color(0xFF0F3D1A) : Colors.white;
 
-    // Line track + fill colors
     final trackColor = isDark
         ? Colors.white.withValues(alpha: 0.15)
         : const Color(0xFF0F3D1A).withValues(alpha: 0.08);
@@ -92,16 +116,19 @@ class _SplashPageState extends State<SplashPage>
 
             // ── Logo (static) ─────────────────────────
             Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 40),
-                child: ClipRRect(
-                  borderRadius: BorderRadius.circular(70),
-                  child: Image.asset(
-                    'assets/image.png',
-                    width: 220,
-                    height: 220,
-                    fit: BoxFit.contain,
-                  ),
-                )),
+              padding: const EdgeInsets.symmetric(horizontal: 40),
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(70),
+                child: Image.asset(
+                  'assets/image.png',
+                  width: 220,
+                  height: 220,
+                  fit: BoxFit.contain,
+                  errorBuilder: (_, __, ___) =>
+                      const SizedBox(width: 220, height: 220),
+                ),
+              ),
+            ),
 
             const SizedBox(height: 28),
 
@@ -134,7 +161,6 @@ class _SplashPageState extends State<SplashPage>
               padding: const EdgeInsets.symmetric(horizontal: 80),
               child: Column(
                 children: [
-                  // Track with animated gradient fill
                   Container(
                     height: 4,
                     decoration: BoxDecoration(
@@ -175,8 +201,6 @@ class _SplashPageState extends State<SplashPage>
                     ),
                   ),
                   const SizedBox(height: 16),
-
-                  // Loading label
                   Text(
                     'LOADING',
                     style: TextStyle(
